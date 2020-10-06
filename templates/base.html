@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>
+      {% block title %}{% endblock %}
+    </title>
+    <div class="topnav">
+        <a class="active" href="#home">Home</a>
+        <a href="#parks">Parks</a>
+        <a href="#trails">Trails</a>
+        <a href="#stargazing">Stars</a>
+    </div>
+    {% block head %}{% endblock %}
+    <link href="/static/css/site.css" rel="stylesheet">
+  </head>
+  <body>
+    {% for msg in get_flashed_messages() %}
+      <p class="flash-msg">
+        {{ msg }}
+      </p>
+    {% endfor %}
+
+    {% block body %}{% endblock %}
+
+    {% block after_body %}{% endblock %}
+  </body>
+</html>
