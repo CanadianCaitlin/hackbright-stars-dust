@@ -1,11 +1,17 @@
 <!doctype html>
 <html>
   <head>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" 
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
+    crossorigin="anonymous">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>
       {% block title %}{% endblock %}
     </title>
+    <!-- Navigation Bar (temporary) -->
     <div class="topnav">
         <a class="active" href="#home">Home</a>
         <a href="#parks">Parks</a>
@@ -13,9 +19,11 @@
         <a href="#stargazing">Stars</a>
     </div>
     {% block head %}{% endblock %}
+    <!-- CSS -->
     <link href="/static/css/site.css" rel="stylesheet">
   </head>
   <body>
+    <!-- Jinja flash messaging (temporary) -->
     {% for msg in get_flashed_messages() %}
       <p class="flash-msg">
         {{ msg }}
@@ -25,5 +33,16 @@
     {% block body %}{% endblock %}
 
     {% block after_body %}{% endblock %}
+    <!-- jQuery script tag from code.jquery.com -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+    integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+    <!-- Script tags from getbootstrap.com -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
   </body>
 </html>

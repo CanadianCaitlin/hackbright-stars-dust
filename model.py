@@ -1,4 +1,4 @@
-"""Models for campsite/hike ratings app."""
+"""Models for campsite/trails ratings app."""
 
 from datetime import datetime
 from flask_sqlalchemy import SQLAlchemy
@@ -28,8 +28,6 @@ class Park(db.Park):
     title = db.Column(db.String)
     overview = db.Column(db.Text)
     photo_path = db.Column(db.String)
-
-    # ratings = a list of Rating objects
 
     def __repr__(self):
         return f'<Park park_id={self.park_id} title={self.title}>'
