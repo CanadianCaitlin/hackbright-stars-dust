@@ -17,6 +17,32 @@ def homepage():
 
     return render_template('homepage.html')
 
+# To Do: add functionality
+# @app.route('/login')
+# def homepage():
+#     """Login to website."""
+#     pass
+
+@app.route('/parks')
+def search_parks():
+    """View parks."""
+
+    return render_template('parks.html')
+
+# MVP 2.0
+@app.route('/trails')
+def search_trails():
+    """View homepage."""
+
+    return render_template('trails.html')
+
+# MVP 2.0
+@app.route('/stargazing')
+def stargazing_search():
+    """View homepage."""
+
+    return render_template('stargazing.html')
+
 if __name__ == "__main__":
 #   connect_to_db(app)
   app.run(debug=True, host='0.0.0.0')
