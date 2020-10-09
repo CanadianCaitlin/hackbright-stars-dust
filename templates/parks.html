@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% block title %}Stars & Dust{% endblock %}
+
+{% block body %}
+
+  <h2>Explore Parks</h2>
+    <p>
+        Park Name <input type="text" name="park-name">
+    </p>
+    
+    <p>
+        State <input type="text" name="park-state">
+    </p>
+
+    <p>
+        Site Type
+        <select name="site-type">
+            <option value="tent">Tent</option>
+            <option value="rv">RV</option>
+            <option value="cabins">Cabins or Lodging</option>
+            <option value="trailer">Trailer</option>
+            <option value="boats">Boat Site</option>
+          </select>
+    </p>
+
+    <p>
+        Pets 
+        <input type="radio" name="pets-allowed" value="yes">
+        <label>Yes</label>
+        
+        <input type="radio" name="pets-allowed" value="no">
+        <label>No</label>
+    </p>
+
+    <p>
+        <button type="submit">Explore</button>
+    </p>
+  </form>
+{% endblock %}
