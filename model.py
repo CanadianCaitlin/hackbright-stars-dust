@@ -19,10 +19,10 @@ class User(db.Model):
         return f'<User user_id={self.user_id} email={self.email}>'
 
 
-class Park(db.Park):
+class Park(db.Model):
     """A park."""
 
-    __tablename__ = 'park'
+    __tablename__ = 'parks'
 
     park_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
     title = db.Column(db.String)

@@ -2,6 +2,8 @@
 
 from flask import (Flask, render_template, request, flash, session,
                    redirect)
+import requests
+import xml.etree.ElementTree as et # converts XML to Python object
 # from model import connect_to_db
 # import crud
 
@@ -16,12 +18,6 @@ def homepage():
     """View homepage."""
 
     return render_template('homepage.html')
-
-# To Do: add functionality
-# @app.route('/login')
-# def homepage():
-#     """Login to website."""
-#     pass
 
 @app.route('/parks')
 def search_parks():
@@ -42,6 +38,12 @@ def stargazing_search():
     """View homepage."""
 
     return render_template('stargazing.html')
+
+# To Do: add functionality
+# @app.route('/login')
+# def homepage():
+#     """Login to website."""
+#     pass
 
 if __name__ == "__main__":
 #   connect_to_db(app)
