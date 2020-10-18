@@ -26,7 +26,11 @@ class Park(db.Model):
 
     park_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
     title = db.Column(db.String)
-    overview = db.Column(db.Text)
+    contract_type = db.Column(db.String)
+    county = db.Column(db.String)
+    latitude = db.Column(db.String)
+    longitude = db.Column(db.String)
+    website = db.Column(db.String)
     photo_path = db.Column(db.String)
 
     def __repr__(self):

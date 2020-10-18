@@ -4,8 +4,8 @@ from flask import (Flask, render_template, request, flash, session,
                    redirect)
 import requests
 import xml.etree.ElementTree as et # converts XML to Python object
-# from model import connect_to_db
-# import crud
+from model import connect_to_db
+import crud
 
 from jinja2 import StrictUndefined
 
@@ -18,6 +18,36 @@ def homepage():
     """View homepage."""
 
     return render_template('homepage.html')
+
+@app.route('/login', methods=['POST'])
+def login():
+    """Login to website or create new account."""
+
+    email = request.args.get('email')
+    password = request.form.get('password')
+
+    user = crud.get_user_by_email_password(email, password)
+
+    if user:
+        flash('Welcome back to Stars & Dust!')
+        # session['user'] = user
+
+    else:
+        crud.create_user(email, password)
+        user = crud.get_user_by_email_password(email, password)
+        # session['user'] = user
+        flash('Welcome to Stars & Dust!')
+    
+    return redirect('/parks')
+
+# MVP 2.0
+@app.route('/logout')
+def logout():
+    """Logout of website."""
+
+    session.pop("user", None)
+
+    return redirect('/')
 
 @app.route('/parks')
 def search_parks():
@@ -39,13 +69,7 @@ def stargazing_search():
 
     return render_template('stargazing.html')
 
-# To Do: add functionality
-# @app.route('/login')
-# def homepage():
-#     """Login to website."""
-#     pass
-
 if __name__ == "__main__":
-#   connect_to_db(app)
+  connect_to_db(app)
   app.run(debug=True, host='0.0.0.0')
 

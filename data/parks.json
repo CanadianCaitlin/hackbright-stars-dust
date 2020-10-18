@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Alcatraz Island National Park",
+        "contract_type": "National",
+        "county": "San Francisco",
+        "latitude": "37.827",
+        "longitude": "-122.423",
+        "website": "https://www.nps.gov/alca",
+        "photo_path": "https://www.nps.gov/common/uploads/stories/images/nri/20160418/articles/A7AD843B-1DD8-B71B-0B2E829DB8A6A762/A7AD843B-1DD8-B71B-0B2E829DB8A6A762.jpg"
+    },
+    {
+        "title": "Channel Islands National Park",
+        "contract_type": "National",
+        "county": "Ventura",
+        "latitude": "34.0069",
+        "longitude": "-119.7785",
+        "website": "https://www.nps.gov/chis",
+        "photo_path": "https://www.nps.gov/common/uploads/banner_image/pwr/homepage/8B1831DF-1DD8-B71B-0BF9865C590EE5A5.jpg"
+    },
+    {
+        "title": "Death Valley National Park",
+        "contract_type": "National",
+        "county": "Inyo",
+        "latitude": "36.5323",
+        "longitude": "-116.9325",
+        "website": "https://www.nps.gov/deva",
+        "photo_path": "https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Death-Valley-National-Park.jpg"
+    },
+    {
+        "title": "Joshua Tree National Park",
+        "contract_type": "National",
+        "county": "San Bernardino",
+        "latitude": "33.8734",
+        "longitude": "-115.901",
+        "website": "https://www.nps.gov/jotr",
+        "photo_path": "https://media.nbclosangeles.com/2019/09/GettyImages-1042755830.jpg"
+    },
+    {
+        "title": "Lassen Volcanic National Park",
+        "contract_type": "National",
+        "county": "Shastal",
+        "latitude": "40.4977",
+        "longitude": "-121.4207",
+        "website": "https://www.nps.gov/lavo",
+        "photo_path": "https://www.nationalgeographic.com/content/dam/travel/photos/000/929/92944.ngsversion.1483651818885.adapt.1900.1.jpg"
+    },
+    {
+        "title": "Pinnacles National Park",
+        "contract_type": "National",
+        "county": "Monterey",
+        "latitude": "36.4906",
+        "longitude": "-121.1825",
+        "website": "https://www.nps.gov/pinn",
+        "photo_path": "https://www.nationalgeographic.com/content/dam/travel/photos/000/896/89687.ngsversion.1483651838649.adapt.1900.1.jpg"
+    },
+    {
+        "title": "Redwood National Park",
+        "contract_type": "National",
+        "county": "Humboldt",
+        "latitude": "41.2132",
+        "longitude": "-124.0046",
+        "website": "https://www.nps.gov/redw",
+        "photo_path": "https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Redwood-National-Park.jpg"
+    },
+    {
+        "title": "Sequoia & Kings Canyon National Park",
+        "contract_type": "National",
+        "county": "Tulare",
+        "latitude": "36.4864",
+        "longitude": "-118.5658",
+        "website": "https://www.nps.gov/seki",
+        "photo_path": "https://www.doi.gov/sites/doi.gov/files/uploads/sequoiakingscanyonnpsenatesequoiasrichardthompsonstesmall.jpg"
+    },
+    {
+        "title": "Yosemite National Park",
+        "contract_type": "National",
+        "county": "Mariposa",
+        "latitude": "37.8651",
+        "longitude": "-119.5383",
+        "website": "https://www.nps.gov/yose",
+        "photo_path": "https://www.nps.gov/common/uploads/grid_builder/yose/crop16_9/F155380D-1DD8-B71B-0B9A465C3EE41D81.jpg"
+    }
+]
