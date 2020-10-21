@@ -3,7 +3,6 @@
 from flask import (Flask, render_template, request, flash, session,
                    redirect)
 import requests
-import xml.etree.ElementTree as et # converts XML to Python object
 from model import connect_to_db
 import crud
 
