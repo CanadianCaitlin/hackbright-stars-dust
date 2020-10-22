@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block title %}Stars & Dust{% endblock %}
+
+{% block body %}
+
+  <h2>Results for {{ county }} County</h2>
+
+  <ul>
+    {% for park in parks %}
+      <li>Park Name: {{ park.title }}</li>
+      <li>{{ park.contract_type }} Park</li>
+      <li><a href="{{ park.website}}">Park Website</a></li>
+      <img src="{{ park.photo_path }}" class="img-thumbnail" height=200 width=200/>
+    {% endfor %}
+  </ul>
+
+{% endblock %}
