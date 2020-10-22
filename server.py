@@ -48,11 +48,18 @@ def logout():
 
     return redirect('/')
 
-@app.route('/parks')
+@app.route('/parks', methods=['GET','POST'])
 def search_parks():
     """View parks."""
 
-    return render_template('parks.html')
+    if request.method == "POST":
+        county = request.form.get('county')
+        parks = crud.get_park_by_county(county)
+        
+        return render_template('parkresults.html', county=county, parks=parks)
+
+    else:
+        return render_template('parks.html')
 
 # MVP 2.0
 @app.route('/trails')

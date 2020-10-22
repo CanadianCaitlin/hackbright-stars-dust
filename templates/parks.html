@@ -4,6 +4,7 @@
 {% block body %}
 
   <h2>Explore Parks</h2>
+  <form action="/parks" method="POST">
     <p>
         Park Name <input type="text" name="park-name">
     </p>
@@ -11,13 +12,13 @@
     <p>
         County
         <select name="county">
-          <option value="IM">Imperial</option>
-          <option value="LA">Los Angeles</option>
-          <option value="OR">Orange County</option>
-          <option value="RV">Riverside</option>
-          <option value="SB">San Bernardino</option>
-          <option value="SD">San Diego</option>
-          <option value="VE">Ventura</option>
+          <option value="Imperial">Imperial</option>
+          <option value="Los Angeles">Los Angeles</option>
+          <option value="Orange">Orange County</option>
+          <option value="Riverside">Riverside</option>
+          <option value="San Bernardino">San Bernardino</option>
+          <option value="San Diego">San Diego</option>
+          <option value="Ventura">Ventura</option>
         </select>
     </p>
 
