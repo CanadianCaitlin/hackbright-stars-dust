@@ -5,13 +5,14 @@
 
   <h2>Results for {{ county }} County</h2>
 
-  <ul>
-    {% for park in parks %}
-      <li>Park Name: {{ park.title }}</li>
-      <li>{{ park.contract_type }} Park</li>
-      <li><a href="{{ park.website}}">Park Website</a></li>
-      <img src="{{ park.photo_path }}" class="img-thumbnail" height=200 width=200/>
-    {% endfor %}
-  </ul>
+  {% for park in parks %}
+  <div class="card" style="width: 20rem;">
+    <img class="card-img-top" src="{{ park.photo_path }}" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{ park.title }}</h5>
+      <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
+    </div>
+  </div>
+  {% endfor %}
 
 {% endblock %}

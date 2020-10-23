@@ -21,3 +21,11 @@
     background-color: #B7B7A4;
     color: black;
   }
+
+  /* body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif	
+  } */
+
+  div.card {
+    border: 3px solid #ffe8d6;
+  }

@@ -29,12 +29,12 @@ def login():
 
     if user:
         flash('Welcome back to Stars & Dust!')
-        # session['user'] = user
+        session['user'] = user.user_id
 
     else:
         crud.create_user(email, password)
         user = crud.get_user_by_email_password(email, password)
-        # session['user'] = user
+        session['user'] = user.user_id
         flash('Welcome to Stars & Dust!')
     
     return redirect('/parks')
@@ -50,7 +50,7 @@ def logout():
 
 @app.route('/parks', methods=['GET','POST'])
 def search_parks():
-    """View parks."""
+    """View parks based on user criteria submission."""
 
     if request.method == "POST":
         county = request.form.get('county')

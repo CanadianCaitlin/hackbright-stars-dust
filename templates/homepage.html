@@ -2,20 +2,24 @@
 {% block title %}Stars & Dust{% endblock %}
 
 {% block body %}
-  <h1>Welcome to Stars & Dust</h1>
+<!-- <div class="container-fluid">
+  <img src=static/img/jtree1.jpg>
+</div> -->
 
-  <h2>Create an Account</h2>
-  <form action="/login" method="POST"> 
-    <p>
-      Email <input type="text" name="email">
-    </p>
+<h1>Welcome to Stars & Dust</h1>
 
-    <p>
-      Password <input type="password" name="password">
-    </p>
+<h2>Create an Account</h2>
+<form action="/login" method="POST"> 
+  <p>
+    Email <input type="text" name="email">
+  </p>
 
-    <p>
-      <button type="submit">Submit</button>
-    </p>
-  </form>
+  <p>
+    Password <input type="password" name="password">
+  </p>
+
+  <p>
+    <button type="submit">Submit</button>
+  </p>
+</form>
 {% endblock %}

@@ -49,6 +49,11 @@ def get_park_by_county(county):
 
     return Park.query.filter(Park.county == county)
 
+# def get_rating_by_park(county):
+#     """Return the rating of a park."""
+
+#     return Rating.query.filter(Rating.park_id == park)
+
 def create_park(title, contract_type, county, latitude, longitude, website, photo_path):
     """Create and return a new park."""
 
