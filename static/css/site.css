@@ -22,10 +22,21 @@
     color: black;
   }
 
-  /* body {
-    font-family: "Trebuchet MS", Helvetica, sans-serif	
-  } */
+  header {
+    font-family: 'Syne Mono', monospace;
+    text-align: center;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;	
+  }
+
+/* To do: add main and footer CSS */
 
   div.card {
     border: 3px solid #ffe8d6;
+    border-width: 6px;
+    margin: 20px;
+    display: flex;
   }

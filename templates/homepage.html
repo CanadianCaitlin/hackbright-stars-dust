@@ -2,24 +2,38 @@
 {% block title %}Stars & Dust{% endblock %}
 
 {% block body %}
-<!-- <div class="container-fluid">
-  <img src=static/img/jtree1.jpg>
-</div> -->
 
-<h1>Welcome to Stars & Dust</h1>
+<style>
+  body {
+    background: url(../static/img/jtree2.jpg) center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  /* Reference: "-ebkit...", "-moz...", and "-o" pulled from: */
+  /* https://css-tricks.com/perfect-full-page-background-image/ */
+</style>
 
-<h2>Create an Account</h2>
-<form action="/login" method="POST"> 
-  <p>
-    Email <input type="text" name="email">
-  </p>
+<header>
+  <h1>Stars & Dust</h1>
+</header>
 
-  <p>
-    Password <input type="password" name="password">
-  </p>
+<main>
+  <h2> Login or Create an Account</h2>
+  <form action="/login" method="POST"> 
+    <p>
+      Email <input type="text" name="email">
+    </p>
 
-  <p>
-    <button type="submit">Submit</button>
-  </p>
-</form>
+    <p>
+      Password <input type="password" name="password">
+    </p>
+
+    <p>
+      <button type="submit">Submit</button>
+    </p>
+  </form>
+</main>
+
 {% endblock %}

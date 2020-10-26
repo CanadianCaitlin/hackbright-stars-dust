@@ -64,14 +64,14 @@ def search_parks():
 # MVP 2.0
 @app.route('/trails')
 def search_trails():
-    """View homepage."""
+    """View trails."""
 
     return render_template('trails.html')
 
 # MVP 2.0
 @app.route('/stargazing')
 def stargazing_search():
-    """View homepage."""
+    """View stargazing locations."""
 
     return render_template('stargazing.html')
 
