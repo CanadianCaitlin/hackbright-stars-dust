@@ -10,20 +10,39 @@
     <title>
       {% block title %}{% endblock %}
     </title>
-    <!-- Navigation Bar (temporary) -->
-    <!-- To Do: Add navation bar via bootstrap -->
-    <!-- To Do: Add logout button to top-right of page -->
-    <div class="topnav">
-        <a class="active" href="/">Home</a>
-        <a href="parks">Parks</a>
-        <a href="trails">Trails</a>
-        <a href="stargazing">Stars</a>
-    </div>
+    <!-- Mapbox script tags-->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
     {% block head %}{% endblock %}
     <!-- CSS -->
     <link href="/static/css/site.css" rel="stylesheet">
   </head>
   <body>
+    <!-- Navigation Bar via Bootstrap -->
+    <!-- To do: add Logout button and About Me site -->
+    <header>
+      <nav class="navbar navbar-light bg-light navbar-expand-lg fixed-top">
+        <a href="/" class="navbar-brand">stars & dust</a>
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav ml-auto">
+                </li>
+                <li class="navbar-item">
+                    <a href="parks" class="nav-link">Parks</a>
+                </li>
+                <li class="navbar-item">
+                    <a href="stargazing" class="nav-link">Stars</a>
+                </li>
+                <li class="navbar-item">
+                    <a href="/" class="nav-link">About Me</a>
+                </li>
+            </ul>
+        </div>
+      </nav>
+    </header>
+    
     <!-- Jinja flash messaging (temporary) -->
     {% for msg in get_flashed_messages() %}
       <p class="flash-msg">

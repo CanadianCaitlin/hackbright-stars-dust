@@ -3,16 +3,83 @@
 
 {% block body %}
 
+  <div id='map' style='height: 300px;'></div>
+  <script>
+  mapboxgl.accessToken = MB_PUBLIC_KEY; //replace with correct public key path
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
+    center: [-118.0488, 33.6956], // starting position [lng, lat]
+    zoom: 9 // starting zoom
+  });
+
+  // Using Jinja to write repetitive JS
+  {% for park in parks %}
+   var marker = new mapboxgl.Marker()
+  .setLngLat([{{ park.longitude }}, {{ park.latitude }}])
+  .addTo(map);
+  {% endfor %}
+
+  // var lnglats = [{% for park in parks %}[{{ park.longitude }}, {{ park.latitude }}]{% if not loop.last %},{% endif %}{% endfor %}];
+  // lnglats.forEach((lnglat) => {
+  //   var marker = new mapboxgl.Marker()
+  //   .setLngLat([lnglat[0], lnglat[1]])
+  //   .addTo(map);
+  // })
+  
+  // var county = '{{ county }}';
+
+  // $(document).ready(() => {
+
+  //   $("#county-picker").change(() => {
+  //     console.log($("#county-picker").val())
+  //     county = $("#county-picker").val()
+  //     let url = '/parks_data' + '?county=' + county;
+  //     $.get(url, (data) => {
+  //       data.parks.forEach((park) => {
+  //         var marker = new mapboxgl.Marker()
+  //         .setLngLat([park.lng, park.lat])
+  //         .addTo(map);
+  //       })
+  //     })
+  //   })
+    
+  // })
+  </script>
+
+  <!-- <select id="county-picker" name="county">
+    <option value="Imperial">Imperial</option>
+    <option value="Los Angeles">Los Angeles</option>
+    <option value="Orange">Orange</option>
+    <option value="Riverside">Riverside</option>
+    <option value="San Bernardino">San Bernardino</option>
+    <option value="San Diego">San Diego</option>
+    <option value="Ventura">Ventura</option>
+  </select> -->
+
   <h2>Results for {{ county }} County</h2>
 
-  {% for park in parks %}
-  <div class="card" style="width: 20rem;">
-    <img class="card-img-top" src="{{ park.photo_path }}" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">{{ park.title }}</h5>
-      <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
+  <!-- <div class="row">
+    {% for park in parks %}
+    <div class="col-sm-4">
+      <div class="card" style="width: 20rem;">
+        <img class="card-img-top" src="{{ park.photo_path }}" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">{{ park.title }}</h5>
+          <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
+        </div>
     </div>
-  </div>
+    {% endfor %}
+  </div> -->
+  
+  {% for park in parks %}
+    <div class="card" style="width: 20rem;">
+      <img class="card-img-top" src="{{ park.photo_path }}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{ park.title }}</h5>
+        <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
+      </div>
+    </div> 
   {% endfor %}
 
 {% endblock %}

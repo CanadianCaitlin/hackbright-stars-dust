@@ -1,7 +1,8 @@
 """Server for park ratings app."""
+import json
 
 from flask import (Flask, render_template, request, flash, session,
-                   redirect)
+                   redirect, jsonify)
 import requests
 from model import connect_to_db
 import crud
@@ -56,10 +57,24 @@ def search_parks():
         county = request.form.get('county')
         parks = crud.get_park_by_county(county)
         
-        return render_template('parkresults.html', county=county, parks=parks)
+        return render_template('parkresults.html', 
+                               county=county, 
+                               parks=parks)
 
     else:
         return render_template('parks.html')
+
+@app.route('/parks_data', methods=['GET'])
+def parks_data():
+    """Get a JSON view of the parks."""
+    county = request.args.get('county')
+    parks = crud.get_park_by_county(county)
+    parks_lst = {'parks': [{'county': park.county,
+                            'lng': park.longitude,
+                            'lat': park.latitude} for park in parks]}
+    
+    return jsonify(parks_lst)
+
 
 # MVP 2.0
 @app.route('/trails')
