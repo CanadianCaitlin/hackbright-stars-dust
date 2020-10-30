@@ -1,35 +1,22 @@
 {% extends 'base.html' %}
 {% block title %}Stars & Dust{% endblock %}
 
+{% block js %}
+	<script src="/static/js/parks.js"></script>
+{% endblock %}
+
 {% block body %}
 
-  <div id='map' style='height: 300px;'></div>
-  <script>
-  mapboxgl.accessToken = MB_PUBLIC_KEY; //replace with correct public key path
-  var map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
-    center: [-118.0488, 33.6956], // starting position [lng, lat]
-    zoom: 9 // starting zoom
-  });
-
-  // Using Jinja to write repetitive JS
-  {% for park in parks %}
-   var marker = new mapboxgl.Marker()
-  .setLngLat([{{ park.longitude }}, {{ park.latitude }}])
-  .addTo(map);
-  {% endfor %}
-
-  // var lnglats = [{% for park in parks %}[{{ park.longitude }}, {{ park.latitude }}]{% if not loop.last %},{% endif %}{% endfor %}];
+  <!-- // var lnglats = [{% for park in parks %}[{{ park.longitude }}, {{ park.latitude }}]{% if not loop.last %},{% endif %}{% endfor %}];
   // lnglats.forEach((lnglat) => {
   //   var marker = new mapboxgl.Marker()
   //   .setLngLat([lnglat[0], lnglat[1]])
   //   .addTo(map);
   // })
   
-  // var county = '{{ county }}';
+  // var county = '{{ county }}'; -->
 
-  // $(document).ready(() => {
+  <!-- // $(document).ready(() => {
 
   //   $("#county-picker").change(() => {
   //     console.log($("#county-picker").val())
@@ -44,42 +31,43 @@
   //     })
   //   })
     
-  // })
-  </script>
-
-  <!-- <select id="county-picker" name="county">
-    <option value="Imperial">Imperial</option>
-    <option value="Los Angeles">Los Angeles</option>
-    <option value="Orange">Orange</option>
-    <option value="Riverside">Riverside</option>
-    <option value="San Bernardino">San Bernardino</option>
-    <option value="San Diego">San Diego</option>
-    <option value="Ventura">Ventura</option>
-  </select> -->
+  // }) -->
 
   <h2>Results for {{ county }} County</h2>
-
-  <!-- <div class="row">
-    {% for park in parks %}
-    <div class="col-sm-4">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="{{ park.photo_path }}" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">{{ park.title }}</h5>
-          <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
-        </div>
-    </div>
-    {% endfor %}
-  </div> -->
   
-  {% for park in parks %}
-    <div class="card" style="width: 20rem;">
-      <img class="card-img-top" src="{{ park.photo_path }}" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">{{ park.title }}</h5>
-        <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
+  <div class="container m-0">
+    <div class="row">
+      <div class="col-8">
+        <div class="row">
+          {% for park in parks %}
+          <div class="col-6 pb-2">
+            <div class="card" style="width: 20rem;">
+              <img class="card-img-top" src="{{ park.photo_path }}" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">{{ park.title }}</h5>
+                <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
+              </div>
+            </div>
+          </div> 
+          {% endfor %}
+        </div>
       </div>
-    </div> 
-  {% endfor %}
+      <div class="col-4">
+        <div id='map' style='height: 100%;'></div>
+      </div>
+    </div>
+  </div>
+
+  <script >
+    const parks = []
+    {% for park in parks %} 
+      parks.push({
+        latitude: {{park.latitude}},
+        longitude: {{park.longitude}},
+        title: "{{park.title}}"
+      })
+    {% endfor %}
+    renderMaps('{{public_key}}', parks)
+  </script>
 
 {% endblock %}

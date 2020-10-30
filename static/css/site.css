@@ -1,19 +1,29 @@
 
-  header {
-    font-family: 'Syne Mono', monospace;
-    text-align: center;
-  }
-  
-  body {
-    margin-top: 50px;
-    font-family: Arial, Helvetica, sans-serif;	
-  }
+body {
+  margin-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+}
 
-/* To do: add main and footer CSS */
+html {
+  height: 100%;
+}
 
-  div.card {
-    border: 3px solid #ffe8d6;
-    border-width: 6px;
-    margin: 20px;
-    display: flex;
-  }
+.center {
+  align-self: center;
+  width: 80%;
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0.3);
+  color: black;
+  margin: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  padding: 20px;
+}
+
+div.card {
+  border: 2px solid #e76f51;
+  border-width: 4px;
+  margin: 20px;
+  display: flex;
+}

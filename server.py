@@ -7,6 +7,8 @@ import requests
 from model import connect_to_db
 import crud
 
+import os
+
 from jinja2 import StrictUndefined
 
 app = Flask(__name__)
@@ -19,10 +21,15 @@ def homepage():
 
     return render_template('homepage.html')
 
-@app.route('/login', methods=['POST'])
+@app.route('/login')
 def login():
     """Login to website or create new account."""
 
+    return render_template('login.html')
+
+@app.route('/user', methods=['POST'])
+def login_user():
+    """Create existing or new user session."""
     email = request.args.get('email')
     password = request.form.get('password')
 
@@ -59,7 +66,8 @@ def search_parks():
         
         return render_template('parkresults.html', 
                                county=county, 
-                               parks=parks)
+                               parks=parks,
+                               public_key=os.getenv("MB_PUBLIC_KEY"))
 
     else:
         return render_template('parks.html')

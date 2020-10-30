@@ -11,25 +11,30 @@
     -o-background-size: cover;
     background-size: cover;
   }
-  /* Reference: "-ebkit...", "-moz...", and "-o" pulled from: */
-  /* https://css-tricks.com/perfect-full-page-background-image/ */
 </style>
 
-<main>
-  <h2> Login or Create an Account</h2>
-  <form action="/login" method="POST"> 
-    <p>
-      Email <input type="text" name="email">
-    </p>
-
-    <p>
-      Password <input type="password" name="password">
-    </p>
-
-    <p>
-      <button type="submit">Submit</button>
-    </p>
-  </form>
-</main>
-
+<div class="center">
+  <h1 style="font-family: monospace; font-size: 50px; text-align: center;">stars & dust</h1>
+  <p style="font-family: monospace; font-size: 20px; text-align: center;">
+    Explore California's widest meadows, highest peaks, and star-filled skies. 
+  </p>
+  <br>
+  <div class="row justify-content-center">
+    <div class="col-6">
+      <div class="card" style="width: 20rem; justify-content: center;">
+        <img class="card-img-top" src="https://www.nps.gov/common/uploads/grid_builder/jotr/crop16_9/075CF965-081A-F785-4293723E0D72E564.jpg?width=950&quality=90&mode=crop" alt="Card image cap">
+        <div class="card-body col">
+          <h5 class="card-title">Joshua Tree National Park</h5>
+          <a href="https://www.nps.gov/jotr" class="btn btn-primary">Park Website</a>
+        </div>
+      </div>
+    </div>
+      <div class="card" style="width: 20rem; justify-content: center;">
+        <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sand_Dunes_in_Death_Valley_National_Park.jpg" alt="Card image cap">
+        <div class="card-body col">
+          <h5 class="card-title">Death Valley National Park</h5>
+          <a href="https://www.nps.gov/deva" class="btn btn-primary">Park Website</a>
+        </div>
+      </div>
+  </div>
 {% endblock %}
