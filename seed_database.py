@@ -41,13 +41,13 @@ for park in park_data:
     parks_in_db.append(db_park)
 
 # Create 10 users; each user will make 10 ratings
-for n in range(10):
+for n in range(100):
     email = f'user{n}@test.com'
     password = 'test'
 
     user = crud.create_user(email, password)
 
-    for _ in range(10):
+    for _ in range(100):
         random_park = choice(parks_in_db)
         score = randint(1, 5)
 
