@@ -15,7 +15,7 @@
         "latitude": "34.0069",
         "longitude": "-119.7785",
         "website": "https://www.nps.gov/chis",
-        "photo_path": "https://www.nps.gov/common/uploads/banner_image/pwr/homepage/8B1831DF-1DD8-B71B-0BF9865C590EE5A5.jpg"
+        "photo_path": "https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Channel-Islands-National-Park.jpg"
     },
     {
         "title": "Death Valley National Park",
@@ -619,5 +619,2021 @@
         "longitude": "-118.9279",
         "website": "http://parks.ca.gov/leocarrillo/",
         "photo_path": "https://upload.wikimedia.org/wikipedia/commons/e/eb/LeoCarrilloBeachCave-01.jpg"
+    },
+    {
+        "title": "Emma Wood State Beach",
+        "contract_type": "State",
+        "county": "Ventura",
+        "latitude": "34.2932",
+        "longitude": "-119.3399",
+        "website": "https://www.parks.ca.gov/emmawood/",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_7977-Large-1000x665.jpg"
+    },
+    {
+        "title": "Hungry Valley State Vehicular Recreation Area",
+        "contract_type": "State",
+        "county": "Ventura",
+        "latitude": "34.7917",
+        "longitude": "-118.8716",
+        "website": "http://ohv.parks.ca.gov/hungryvalley/",
+        "photo_path": "https://cdn-assets.alltrails.com/uploads/photo/image/24505196/large_315a5c051f3969e164333c7f1cf83adb.jpg"
+    },
+    {
+        "title": "Leo Carrillo State Park",
+        "contract_type": "State",
+        "county": "Ventura",
+        "latitude": "34.0622",
+        "longitude": "-118.9279",
+        "website": "http://parks.ca.gov/leocarrillo/",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/e/eb/LeoCarrilloBeachCave-01.jpg"
+    },
+    {
+        "title": "Mandalay State Beach",
+        "contract_type": "State",
+        "county": "Ventura",
+        "latitude": "34.2011",
+        "longitude": "-119.2484",
+        "website": "https://www.parks.ca.gov/?page_id=609",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Waves-at-Mandalay-Beach-in-Oxnard-California-125094983-Large-e1483407343189-1000x602.jpg"
+    },
+    {
+        "title": "McGrath State Beach",
+        "contract_type": "State",
+        "county": "Ventura",
+        "latitude": "34.221",
+        "longitude": "-119.2597",
+        "website": "http://www.parks.ca.gov/?page_id=607",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_4748-Large-1000x626.jpg"
+    },
+    {
+        "title": "Point Mugu State Park",
+        "contract_type": "State",
+        "county": "Ventura",
+        "latitude": "34.1095",
+        "longitude": "-119.0074",
+        "website": "https://www.parks.ca.gov/pointmugu/",
+        "photo_path": "https://www.hikespeak.com/img/la/Mugu/Mugu_Peak_Trail_IMG_7387.jpg"
+    },
+    {
+        "title": "San Buenaventura State Beach",
+        "contract_type": "State",
+        "county": "Ventura",
+        "latitude": "34.2697",
+        "longitude": "-119.2771",
+        "website": "http://www.parks.ca.gov/?page_id=600",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/9/95/San_Buenaventura_State_Beach_from_U.S._Route_101_2015-01-04.jpg"
+    },
+    {
+        "title": "Carpinteria State Beach",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.393",
+        "longitude": "-119.5243",
+        "website": "https://www.parks.ca.gov/?page_id=599",
+        "photo_path": "https://www.parks.ca.gov/pages/25071/images/CarpinteriaSB_2009%C2%A9CalStPks_JPalmer_photo.jpg"
+    },
+    {
+        "title": "Chumash Painted Cave State Historic Park",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.5042",
+        "longitude": "-119.7876",
+        "website": "https://www.parks.ca.gov/?page_id=602",
+        "photo_path": "https://zoomeboshi.files.wordpress.com/2012/10/img_8932.jpg"
+    },
+    {
+        "title": "El Capitán State Beach",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.4596",
+        "longitude": "-120.0245",
+        "website": "https://www.parks.ca.gov/?page_id=601",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/El-Capitan-State-Beach-BS-DC-March2015-14-1000x667.jpg"
+    },
+    {
+        "title": "El Presidio de Santa Barbara State Historic Park",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.4226",
+        "longitude": "-119.6989",
+        "website": "https://www.parks.ca.gov/?page_id=608",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/b/bf/El_Presidio_de_Santa_Barbara_State_Historic_Park.jpg"
+    },
+    {
+        "title": "Gaviota State Park",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.4776",
+        "longitude": "-120.23",
+        "website": "https://www.parks.ca.gov/?page_id=606",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Gaviota-State-Beach-Bryce-Feb2016-9-e1516408161127-1000x598.jpg"
+    },
+    {
+        "title": "La Purísima Mission State Historic Park",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.6698",
+        "longitude": "-120.4206",
+        "website": "https://www.parks.ca.gov/?page_id=598",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2016/05/la-purisima-mission-1.jpg"
+    },
+    {
+        "title": "Point Sal State Beach",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.9021",
+        "longitude": "-120.6553",
+        "website": "https://www.parks.ca.gov/?page_id=605",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Point-Sal-State-Beach-from-Bluff-Top-7317395-Large.jpg"
+    },
+    {
+        "title": "Refugio State Beach",
+        "contract_type": "State",
+        "county": "Santa Barbara",
+        "latitude": "34.4632",
+        "longitude": "-120.0701",
+        "website": "https://www.parks.ca.gov/?page_id=603",
+        "photo_path": "https://www.hikespeak.com/img/Central-Coast/SB/Refugio_SB/Refugio_State_Beach_IMG_5953.jpg"
+    },
+    {
+        "title": "Eastern Kern County Onyx Ranch State Vehicular Recreation Area",
+        "contract_type": "State",
+        "county": "Kern",
+        "latitude": "35.33302",
+        "longitude": "-118.02125",
+        "website": "https://www.parks.ca.gov/?page_id=28617",
+        "photo_path": "https://ugc.naturalatlas.com/photos/0/29/963/29963/mixzGo55/800.jpg"
+    },
+    {
+        "title": "Fort Tejon State Historic Park",
+        "contract_type": "State",
+        "county": "Kern",
+        "latitude": "34.8745",
+        "longitude": "-118.8935",
+        "website": "https://www.parks.ca.gov/?page_id=585",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Fort_Tejon_Barracks_from_CO_Qtrs.JPG"
+    },
+    {
+        "title": "Red Rock Canyon State Park",
+        "contract_type": "State",
+        "county": "Kern",
+        "latitude": "35.4476",
+        "longitude": "-98.3523",
+        "website": "https://www.parks.ca.gov/?page_id=631",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-s/0e/73/a7/18/hagen-canyon.jpg"
+    },
+    {
+        "title": "Tomo-Kahni State Historic Park",
+        "contract_type": "State",
+        "county": "Kern",
+        "latitude": "35.1483",
+        "longitude": "-118.336",
+        "website": "https://www.parks.ca.gov/?page_id=610",
+        "photo_path": "https://bloximages.newyork1.vip.townnews.com/tehachapinews.com/content/tncms/assets/v3/editorial/8/74/87407feb-46ee-552a-abc4-908b1e435ae5/57c49b08c300d.image.jpg"
+    },
+    {
+        "title": "Tule Elk State Natural Reserve",
+        "contract_type": "State",
+        "county": "Kern",
+        "latitude": "35.3221",
+        "longitude": "-119.364",
+        "website": "https://www.parks.ca.gov/?page_id=584",
+        "photo_path": "https://www.parks.ca.gov/pages/584/images/014.JPG"
+    },
+    {
+        "title": "Cambria State Marine Park",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.3285",
+        "longitude": "-121.107",
+        "website": "https://www.parks.ca.gov/?page_id=27201",
+        "photo_path": "https://d3qvqlc701gzhm.cloudfront.net/thumbs/1faffe07145d189d98cfedae5c4a30f2070c1f2c8e527ed23f9387a79a6b2a44-750.jpg"
+    },
+    {
+        "title": "Cayucos State Beach",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.4451",
+        "longitude": "-120.8974",
+        "website": "https://www.parks.ca.gov/?page_id=596",
+        "photo_path": "https://highway1discoveryroute.com/wp-content/uploads/2019/05/cayucoscasunrise_40289572613_o.jpg"
+    },
+    {
+        "title": "Estero Bluffs State Park",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.6432",
+        "longitude": "-121.1917",
+        "website": "https://www.parks.ca.gov/?page_id=22263",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Estero_Bluffs_State_Park%2C_just_north_of_Cayucos%2C_CA%2C_10_October_2013._%2810234210144%29.jpg"
+    },
+    {
+        "title": "Harmony Headlands State Park",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.4752",
+        "longitude": "-121.0077",
+        "website": "https://www.parks.ca.gov/?page_id=25735",
+        "photo_path": "https://www.hikespeak.com/img/Central-Coast/SLO/Harmony/Harmony_Headlands_SP__IMG_9239.jpg"
+    },
+    {
+        "title": "Hearst San Simeon State Park",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.5926",
+        "longitude": "-121.1166",
+        "website": "https://www.parks.ca.gov/?page_id=590",
+        "photo_path": "https://media2.fdncms.com/ntslo/imager/u/original/4993518/news1-1-8349966f83d4dc46.jpg"
+    },
+    {
+        "title": "Hearst San Simeon State Historical Monument",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.6852",
+        "longitude": "-121.1682",
+        "website": "https://www.parks.ca.gov/?page_id=591",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2016/05/540151-DSC00051.jpg"
+    },
+    {
+        "title": "Los Osos Oaks State Natural Reserve",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.3063",
+        "longitude": "-120.8135",
+        "website": "https://www.parks.ca.gov/?page_id=597",
+        "photo_path": "https://c8.alamy.com/comp/B916D7/hiking-trail-los-osos-oaks-state-reserve-california-B916D7.jpg"
+    },
+    {
+        "title": "Montaña de Oro State Park",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.2723",
+        "longitude": "-120.8868",
+        "website": "https://www.parks.ca.gov/?page_id=592",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Coon-Creek-Montana-de-Oro-BS-DC-Mar2015-13.jpg"
+    },
+    {
+        "title": "Morro Bay State Park",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.3527",
+        "longitude": "-120.8393",
+        "website": "https://www.parks.ca.gov/?page_id=594",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Beach-Low-Tide-at-Morro-Bay-State-Park-Rock-Distant-86627822-Large-1000x667.jpg"
+    },
+    {
+        "title": "Morro Strand State Beach",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.3918",
+        "longitude": "-120.8664",
+        "website": "https://www.parks.ca.gov/?page_id=593",
+        "photo_path": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/morrobayca/BeachWalks_MBT0-f514a6495056a36_f514a85f-5056-a36a-06d5cb2ee007bc75.jpg"
+    },
+    {
+        "title": "Oceano Dunes State Vehicular Recreation Area",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.1115",
+        "longitude": "-120.6254",
+        "website": "https://www.parks.ca.gov/?page_id=1207",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Oceano-Pismo-Beach-CA-Sand-dunes-19483772-Large-e1510892126101-1000x585.jpg"
+    },
+    {
+        "title": "Pismo State Beach",
+        "contract_type": "State",
+        "county": "San Luis Obispo",
+        "latitude": "35.1064",
+        "longitude": "-120.627",
+        "website": "https://www.parks.ca.gov/?page_id=595",
+        "photo_path": "https://www.parks.ca.gov/pages/595/images/PSB%20Dunes.BAER090-P100662.JPG"
+    },
+    {
+        "title": "Colonel Allensworth State Historic Park",
+        "contract_type": "State",
+        "county": "Tulare",
+        "latitude": "35.8641",
+        "longitude": "-119.3868",
+        "website": "https://www.parks.ca.gov/?page_id=583",
+        "photo_path": "https://www.parks.ca.gov/pages/583/images/CASHP_0-R1-035-16_low.jpg"
+    },
+    {
+        "title": "Andrew Molera State Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.2884",
+        "longitude": "-121.8443",
+        "website": "https://www.parks.ca.gov/?page_id=582",
+        "photo_path": "https://img.hipcamp.com/image/upload/c_fill,f_auto,g_auto,h_960,q_60,w_1440/v1513275354/campground-photos/djjmhdc87zqzcpelfvjg.jpg"
+    },
+    {
+        "title": "Asilomar State Beach",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.618",
+        "longitude": "-121.9419",
+        "website": "https://www.parks.ca.gov/?page_id=566",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rocks_at_the_Asilomar_State_Beach.jpg/1200px-Rocks_at_the_Asilomar_State_Beach.jpg"
+    },
+    {
+        "title": "Carmel River State Beach",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.5374",
+        "longitude": "-121.9279",
+        "website": "https://www.parks.ca.gov/?page_id=567",
+        "photo_path": "https://www.parks.ca.gov/pages/567/images/CarmelRiverSB-Palmer_P0079238.jpg"
+    },
+    {
+        "title": "Fort Ord Dunes State Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.657",
+        "longitude": "-121.8224",
+        "website": "https://www.parks.ca.gov/?page_id=580",
+        "photo_path": "https://assets.simpleviewinc.com/simpleview/image/fetch/q_75/https://assets.simpleviewinc.com/simpleview/image/upload/crm/montereycounty/Fort-Ord-Dunes-State-Park-10_04cd1c3d-5056-a36a-0a614db8e0a1ebed.jpg"
+    },
+    {
+        "title": "Garrapata State Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.468",
+        "longitude": "-121.9075",
+        "website": "https://www.parks.ca.gov/?page_id=579",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Early-Dusk-At-Garrapata-State-Beach-monterey-coast-Large-1000x624.jpg"
+    },
+    {
+        "title": "Hatton Canyon Park Property",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.3359",
+        "longitude": "-121.544",
+        "website": "https://www.parks.ca.gov/?page_id=22273",
+        "photo_path": "https://www.parks.ca.gov/pages/22273/images/090-P94793.jpg"
+    },
+    {
+        "title": "John Little State Natural Reserve",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.1193",
+        "longitude": "-121.6319",
+        "website": "https://www.parks.ca.gov/?page_id=568",
+        "photo_path": "https://www.parks.ca.gov/pages/568/images/090-P99009.jpg"
+    },
+    {
+        "title": "Julia Pfeiffer Burns State Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.1692",
+        "longitude": "-121.6715",
+        "website": "https://www.parks.ca.gov/?page_id=578",
+        "photo_path": "https://travel.usnews.com/images/479652640_ZeNqS9W.jpg"
+    },
+    {
+        "title": "Limekiln State Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.0113",
+        "longitude": "-121.5165",
+        "website": "https://www.parks.ca.gov/?page_id=577",
+        "photo_path": "https://img.hipcamp.com/image/upload/c_fill,f_auto,g_auto,h_960,q_60,w_1440/v1555366281/campground-photos/ztucspdl9hsi5yqvt52y.jpg"
+    },
+    {
+        "title": "Marina State Beach",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.6928",
+        "longitude": "-121.8093",
+        "website": "https://www.parks.ca.gov/?page_id=581",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-marina-state-beach-marina-california-ca-Large-1000x665.jpg"
+    },
+    {
+        "title": "Monterey State Historic Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.5997",
+        "longitude": "-121.8936",
+        "website": "https://www.parks.ca.gov/?page_id=575",
+        "photo_path": "https://californiathroughmylens.com/wp-content/uploads/2018/03/monterey-state-historic-park-1.jpg"
+    },
+    {
+        "title": "Monterey State Beach",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.618",
+        "longitude": "-121.8494",
+        "website": "https://www.parks.ca.gov/?page_id=576",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Monterey_Beach_Scene.jpg"
+    },
+    {
+        "title": "Moss Landing State Beach",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.8149",
+        "longitude": "-121.7913",
+        "website": "https://www.parks.ca.gov/?page_id=574",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_1311-Large.jpg"
+    },
+    {
+        "title": "Pfeiffer Big Sur State Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.2429",
+        "longitude": "-121.7767",
+        "website": "https://www.parks.ca.gov/?page_id=570",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2016/05/Pfeiffer-Big-Sur-State-Park-26835.jpg"
+    },
+    {
+        "title": "Point Lobos State Natural Reserve",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.5159",
+        "longitude": "-121.9382",
+        "website": "https://www.parks.ca.gov/?page_id=571",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Point-Lobos-State-Park-Ca-aqua-green-water-at-china-cove-beach-Large-e1491524718797.jpg"
+    },
+    {
+        "title": "Point Lobos Ranch Park Property",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.5148",
+        "longitude": "-121.9217",
+        "website": "https://www.parks.ca.gov/?page_id=569",
+        "photo_path": "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026305072/-strip_-quality_60_-interlace_Plane_-resize_560x360_U__-gravity_center_-extent_560x360/place_image-image-bfa21eac-0cf4-424b-81f3-2925a1b671ae.jpg"
+    },
+    {
+        "title": "Point Sur State Historic Park",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.3091",
+        "longitude": "-121.8933",
+        "website": "https://www.parks.ca.gov/?page_id=565",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Point-Sur-Beach-and-Lighthouse-Rock-47362390-Large-e1490922806363-1000x597.jpg"
+    },
+    {
+        "title": "Salinas River State Beach",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.7754",
+        "longitude": "-121.7947",
+        "website": "https://www.parks.ca.gov/?page_id=573",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_2724-Large-933x700.jpg"
+    },
+    {
+        "title": "Zmudowski State Beach",
+        "contract_type": "State",
+        "county": "Monterey",
+        "latitude": "36.8426",
+        "longitude": "-121.8048",
+        "website": "https://www.parks.ca.gov/?page_id=572",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_1280-Large.jpg"
+    },
+    {
+        "title": "Fremont Peak State Park",
+        "contract_type": "State",
+        "county": "San Benito",
+        "latitude": "36.7619",
+        "longitude": "-121.5035",
+        "website": "https://www.parks.ca.gov/?page_id=564",
+        "photo_path": "https://liveandlethike.files.wordpress.com/2020/01/dsc06664.jpg"
+    },
+    {
+        "title": "Hollister Hills State Vehicular Recreation Area",
+        "contract_type": "State",
+        "county": "San Benito",
+        "latitude": "36.7706",
+        "longitude": "-121.4146",
+        "website": "https://www.parks.ca.gov/?page_id=1179",
+        "photo_path": "https://ohv.parks.ca.gov/pages/1170/images/1_hollisterhillssvra_small.JPG"
+    },
+    {
+        "title": "San Juan Bautista State Historic Park",
+        "contract_type": "State",
+        "county": "San Benito",
+        "latitude": "36.5867",
+        "longitude": "-121.8582",
+        "website": "https://www.parks.ca.gov/?page_id=563",
+        "photo_path": "https://www.parks.ca.gov/pages/563/images/090-P95812.jpg"
+    },
+    {
+        "title": "Millerton Lake State Recreation Area",
+        "contract_type": "State",
+        "county": "Fresno",
+        "latitude": "37.0039",
+        "longitude": "-119.6905",
+        "website": "https://www.parks.ca.gov/?page_id=587",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-s/14/fb/93/8b/img-20181007-160546-largejpg.jpg"
+    },
+    {
+        "title": "Wassama Round House State Historic Park",
+        "contract_type": "State",
+        "county": "Madera",
+        "latitude": "37.3761",
+        "longitude": "-119.7199",
+        "website": "https://www.parks.ca.gov/?page_id=586",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Exterior%2C_Wassama_Round_House.jpg"
+    },
+    {
+        "title": "George J. Hatfield State Recreation Area",
+        "contract_type": "State",
+        "county": "Merced",
+        "latitude": "37.3562",
+        "longitude": "-120.9593",
+        "website": "https://www.parks.ca.gov/?page_id=556",
+        "photo_path": "https://www.parks.ca.gov/pages/556/images/GJHSRA78_low.jpg"
+    },
+    {
+        "title": "Great Valley Grasslands State Park",
+        "contract_type": "State",
+        "county": "Merced",
+        "latitude": "37.281",
+        "longitude": "-120.8642",
+        "website": "https://www.parks.ca.gov/?page_id=559",
+        "photo_path": "https://cdn-assets.alltrails.com/uploads/photo/image/18978871/extra_large_0171f535037a29808233705f9f9a684f.jpg"
+    },
+    {
+        "title": "McConnell State Recreation Area",
+        "contract_type": "State",
+        "county": "Merced",
+        "latitude": "37.4159",
+        "longitude": "-120.7111",
+        "website": "https://www.parks.ca.gov/?page_id=554",
+        "photo_path": "https://ugc.naturalatlas.com/photos/0/23/832/23832/E60Vukf5/1200.jpg"
+    },
+    {
+        "title": "Pacheco State Park",
+        "contract_type": "State",
+        "county": "Merced",
+        "latitude": "37.0651",
+        "longitude": "-121.2116",
+        "website": "https://www.parks.ca.gov/?page_id=560",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Dinosaur_point_pacheco_state_park.jpg"
+    },
+    {
+        "title": "San Luis Reservoir State Recreation Area",
+        "contract_type": "State",
+        "county": "Merced",
+        "latitude": "37.0657",
+        "longitude": "-121.0719",
+        "website": "https://www.parks.ca.gov/?page_id=558",
+        "photo_path": "https://rvpoints.com/media/reviews/photos/original/32/1c/8b/4048146370-9c34fe5a9c-z-50-1398304772.jpg"
+    },
+    {
+        "title": "California State Mining and Mineral Museum Park Property",
+        "contract_type": "State",
+        "county": "Mariposa",
+        "latitude": "37.2751",
+        "longitude": "-119.5652",
+        "website": "https://www.parks.ca.gov/?page_id=588",
+        "photo_path": "https://cdn.elebase.io/29559e61-1a75-4e70-a155-f8688960c1c1/024e88c8-9b05-4c3f-be4b-ab1b4c73adf4-sie0f803ffb880654b28.jpg"
+    },
+    {
+        "title": "Bodie State Historic Park",
+        "contract_type": "State",
+        "county": "Mono",
+        "latitude": "38.2087",
+        "longitude": "-119.0144",
+        "website": "https://www.parks.ca.gov/?page_id=509",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bodie-State-Historic-Park-4.JPG"
+    },
+    {
+        "title": "Mono Lake Tufa State Natural Reserve",
+        "contract_type": "State",
+        "county": "Mono",
+        "latitude": "37.9788",
+        "longitude": "-119.1325",
+        "website": "https://www.parks.ca.gov/?page_id=514",
+        "photo_path": "https://www.mammothres.com/sites/default/files/uploads/mono-lake3.jpg"
+    },
+    {
+        "title": "Candlestick Point State Recreation Area",
+        "contract_type": "State",
+        "county": "San Francisco",
+        "latitude": "37.7128",
+        "longitude": "-122.3816",
+        "website": "https://www.parks.ca.gov/?page_id=519",
+        "photo_path": "https://www.parks.ca.gov/pages/519/images/DSCN2033.JPG"
+    },
+    {
+        "title": "Año Nuevo State Park",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.1193",
+        "longitude": "-122.3076",
+        "website": "https://www.parks.ca.gov/?page_id=523",
+        "photo_path": "https://www.parks.ca.gov/pages/523/images/Fall,%20MoltingNorthPoint(Gifford).JPG"
+    },
+    {
+        "title": "Bean Hollow State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.2274",
+        "longitude": "-122.411",
+        "website": "https://www.parks.ca.gov/?page_id=527",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigstock-California-Bean-Hollow-State-b-60305141-Large-e1525998261990-1000x644.jpg"
+    },
+    {
+        "title": "Burleigh H. Murray Ranch Park Property",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.4451",
+        "longitude": "-122.4035",
+        "website": "https://www.parks.ca.gov/?page_id=535",
+        "photo_path": "https://www.parks.ca.gov/pages/535/images/P0079417.jpg"
+    },
+    {
+        "title": "Butano State Park",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.2128",
+        "longitude": "-122.3053",
+        "website": "https://www.parks.ca.gov/?page_id=536",
+        "photo_path": "https://www.parks.ca.gov/pages/536/images/dsc_0810_21060771478_o.jpg"
+    },
+    {
+        "title": "Gray Whale Cove State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.5646",
+        "longitude": "-122.514",
+        "website": "https://www.parks.ca.gov/?page_id=528",
+        "photo_path": "https://gatetoadventures.com/wp-content/uploads/2018/04/Gray-Whale-Cove-State-Beach.jpg"
+    },
+    {
+        "title": "Half Moon Bay State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.4761",
+        "longitude": "-122.449",
+        "website": "https://www.parks.ca.gov/?page_id=531",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_5889-Large-1000x667.jpg"
+    },
+    {
+        "title": "Montara State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.5469",
+        "longitude": "-122.5149",
+        "website": "https://www.parks.ca.gov/?page_id=532",
+        "photo_path": "https://thatsmypark.org/wp-content/uploads/2016/05/Website5-Montara-1024x681.jpg"
+    },
+    {
+        "title": "Pacifica State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.5989",
+        "longitude": "-122.5019",
+        "website": "https://www.parks.ca.gov/?page_id=524",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Pacifica-State-Beach-near-san-francisco-CA-71568820-Large-e1512516088862.jpg"
+    },
+    {
+        "title": "Pescadero State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.2622",
+        "longitude": "-122.4133",
+        "website": "https://www.parks.ca.gov/?page_id=522",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_6393-Large-e1512525654372-1000x627.jpg"
+    },
+    {
+        "title": "Pigeon Point Light Station State Historic Park",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.1856",
+        "longitude": "-122.3964",
+        "website": "https://www.parks.ca.gov/?page_id=533",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Pigeon-Point-Lighthouse-Beach-149291828-Large-e1512521988206-1000x600.jpg"
+    },
+    {
+        "title": "Pomponio State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.2922",
+        "longitude": "-122.4072",
+        "website": "https://www.parks.ca.gov/?page_id=521",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_6314-Large1-1000x667.jpg"
+    },
+    {
+        "title": "Portola Redwoods State Park",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.2602",
+        "longitude": "-122.1968",
+        "website": "https://www.parks.ca.gov/?page_id=539",
+        "photo_path": "https://cdn-assets.alltrails.com/uploads/photo/image/22923369/large_3c299e0137ea5f80f977ff58b10f0015.jpg"
+    },
+    {
+        "title": "San Bruno Mountain State Park",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.6969",
+        "longitude": "-122.4339",
+        "website": "https://www.parks.ca.gov/?page_id=518",
+        "photo_path": "https://parks.smcgov.org/sites/parks.smcgov.org/files/styles/flexslider_full/public/San%20Bruno%20Mountain%20-%20Summit%20Loop%20Trail%20%20005_1.jpg"
+    },
+    {
+        "title": "San Gregorio State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.323",
+        "longitude": "-122.4033",
+        "website": "https://www.parks.ca.gov/?page_id=529",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_4535-Large-980x700.jpg"
+    },
+    {
+        "title": "Thornton State Beach",
+        "contract_type": "State",
+        "county": "San Mateo",
+        "latitude": "37.6981",
+        "longitude": "-122.496",
+        "website": "https://www.parks.ca.gov/?page_id=530",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_5154-Large1-1000x641.jpg"
+    },
+    {
+        "title": "Big Basin Redwoods State Park",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "37.1716",
+        "longitude": "-122.2228",
+        "website": "https://www.parks.ca.gov/?page_id=540",
+        "photo_path": "https://thatsmypark.org/wp-content/uploads/2016/05/Website1-Big-Basin-1024x681.jpg"
+    },
+    {
+        "title": "Castle Rock State Park",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "37.2298",
+        "longitude": "-122.1252",
+        "website": "https://www.parks.ca.gov/?page_id=538",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/2/29/Castle_Rock_State_Park_6.JPG"
+    },
+    {
+        "title": "Henry Cowell Redwoods State Park",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "37.0414",
+        "longitude": "-122.0672",
+        "website": "https://www.parks.ca.gov/?page_id=546",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/0/04/HenryCowell1.jpg"
+    },
+    {
+        "title": "Lighthouse Field State Beach",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.9534",
+        "longitude": "-122.0288",
+        "website": "https://www.parks.ca.gov/?page_id=550",
+        "photo_path": "https://www.parks.ca.gov/pages/550/images/474PR_1419_Beach2_Sukovaty2001_%C2%A9CAStateParks.jpg"
+    },
+    {
+        "title": "Manresa State Beach",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.9325",
+        "longitude": "-121.8619",
+        "website": "https://www.parks.ca.gov/?page_id=545",
+        "photo_path": "https://www.parks.ca.gov/pages/545/images/State%20parks%207-1-4%20sm.jpg"
+    },
+    {
+        "title": "Natural Bridges State Beach",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.9503",
+        "longitude": "-122.0576",
+        "website": "https://www.parks.ca.gov/?page_id=541",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigstock-Sea-Arch-6055855-Custom-1000x649.jpg"
+    },
+    {
+        "title": "New Brighton State Beach",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.9784",
+        "longitude": "-121.9382",
+        "website": "https://www.parks.ca.gov/?page_id=542",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_8621-Large1-e1520667272411-1000x610.jpg"
+    },
+    {
+        "title": "Rancho San Andrés Castro Adobe Park Property",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.5648",
+        "longitude": "-121.4846",
+        "website": "https://www.parks.ca.gov/?page_id=22271",
+        "photo_path": "https://www.thatsmypark.org/wp-content/uploads/2016/05/DSC4706-1024x678.jpg"
+    },
+    {
+        "title": "Santa Cruz Mission State Historic Park",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.9776",
+        "longitude": "-122.028",
+        "website": "https://www.parks.ca.gov/?page_id=548",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2016/05/wikipedia-800px-MissionSantaCruzCalifornia.jpg"
+    },
+    {
+        "title": "Seacliff State Beach",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.972",
+        "longitude": "-121.9139",
+        "website": "https://www.parks.ca.gov/?page_id=543",
+        "photo_path": "https://thatsmypark.org/wp-content/uploads/2016/07/Website5-Seacliff-1024x681.jpg"
+    },
+    {
+        "title": "Sunset State Beach",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.8868",
+        "longitude": "-121.8325",
+        "website": "https://www.parks.ca.gov/?page_id=544",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_5273-Large1.jpg"
+    },
+    {
+        "title": "The Forest of Nisene Marks State Park",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "37.0175",
+        "longitude": "-121.9053",
+        "website": "https://www.parks.ca.gov/?page_id=666",
+        "photo_path": "https://cdn-assets.alltrails.com/uploads/photo/image/24546724/large_55c1739aa231f27214e60e2f1e680774.jpg"
+    },
+    {
+        "title": "Twin Lakes State Beach",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.9623",
+        "longitude": "-121.9977",
+        "website": "https://www.parks.ca.gov/?page_id=547",
+        "photo_path": "https://thatsmypark.org/wp-content/uploads/2016/05/unspecified-1-1-1024x682.jpg"
+    },
+    {
+        "title": "Wilder Ranch State Park",
+        "contract_type": "State",
+        "county": "Santa Cruz",
+        "latitude": "36.9608",
+        "longitude": "-122.0834",
+        "website": "https://www.parks.ca.gov/?page_id=549",
+        "photo_path": "https://www.tripsavvy.com/thmb/gNMWVwqMJTZGpAM6PJB1ize-N94=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/beaches-and-cliffs-on-the-pacific-coast--wilder-ranch-state-park--santa-cruz--california-1134171242-4e1286e0f80b49b0bbb5a1a318635475.jpg"
+    },
+    {
+        "title": "Franks Tract State Recreation Area",
+        "contract_type": "State",
+        "county": "Contra Costa",
+        "latitude": "38.0334",
+        "longitude": "-121.6223",
+        "website": "https://www.parks.ca.gov/?page_id=490",
+        "photo_path": "https://www.parks.ca.gov/pages/490/images/090-P100618.JPG"
+    },
+    {
+        "title": "Marsh Creek State Park State Historic Park",
+        "contract_type": "State",
+        "county": "Contra Costa",
+        "latitude": "37.892687",
+        "longitude": "-121.72338",
+        "website": "https://www.parks.ca.gov/?page_id=525",
+        "photo_path": "https://www.naturallyamazing.com/americasparks/78.jpg"
+    },
+    {
+        "title": "Mount Diablo State Park",
+        "contract_type": "State",
+        "county": "Contra Costa",
+        "latitude": "37.8772",
+        "longitude": "-121.9239",
+        "website": "https://www.parks.ca.gov/?page_id=517",
+        "photo_path": "https://liveandlethike.files.wordpress.com/2020/01/dsc06332.jpg"
+    },
+    {
+        "title": "Albany State Marine Reserve",
+        "contract_type": "State",
+        "county": "Alameda",
+        "latitude": "37.8893",
+        "longitude": "-122.3151",
+        "website": "https://www.parks.ca.gov/?page_id=22880",
+        "photo_path": "https://www.parks.ca.gov/pages/22880/images/090-P91672.JPG"
+    },
+    {
+        "title": "Bethany Reservoir State Recreation Area",
+        "contract_type": "State",
+        "county": "Alameda",
+        "latitude": "37.7829",
+        "longitude": "-121.617",
+        "website": "https://www.parks.ca.gov/?page_id=562",
+        "photo_path": "https://www.parks.ca.gov/pages/562/images/090-P95333.jpg"
+    },
+    {
+        "title": "Emeryville Crescent State Marine Reserve",
+        "contract_type": "State",
+        "county": "Alameda",
+        "latitude": "37.8371",
+        "longitude": "-122.309",
+        "website": "https://www.parks.ca.gov/?page_id=22881",
+        "photo_path": "https://cdn.businessyab.com/assets/uploads/6604a14f78cb7d3f5b0370aa2098251f__united_states_california_alameda_county_emeryville_powell_street_3308_emeryville_crescent_state_marine_reservehtml.jpg"
+    },
+    {
+        "title": "Lake Del Valle State Recreation Area",
+        "contract_type": "State",
+        "county": "Alameda",
+        "latitude": "37.5963212",
+        "longitude": "-121.714118",
+        "website": "https://www.parks.ca.gov/?page_id=537",
+        "photo_path": "https://www.parks.ca.gov/pages/537/images/090-P95387.jpg"
+    },
+    {
+        "title": "McLaughlin Eastshore State Park State Seashore",
+        "contract_type": "State",
+        "county": "Alameda",
+        "latitude": "37.868",
+        "longitude": "-122.3089",
+        "website": "https://www.parks.ca.gov/?page_id=520",
+        "photo_path": "https://www.berkeleyside.com/wp-content/uploads/2016/02/Eastshore_14-720x450.jpg"
+    },
+    {
+        "title": "Robert W. Crown Memorial State Beach",
+        "contract_type": "State",
+        "county": "Alameda",
+        "latitude": "37.7662",
+        "longitude": "-122.272",
+        "website": "https://www.parks.ca.gov/?page_id=526",
+        "photo_path": "https://3hm4vx15otpx2n5mp13bqbsk-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/alameda-beach-crown-memorial.jpg"
+    },
+    {
+        "title": "Henry W. Coe State Park",
+        "contract_type": "State",
+        "county": "Santa Clara",
+        "latitude": "37.1914",
+        "longitude": "-121.436",
+        "website": "https://www.parks.ca.gov/?page_id=561",
+        "photo_path": "https://coepark.net/images/photos/Horse_site/mau-greenfield.jpg"
+    },
+    {
+        "title": "Martial Cottle Park State Recreation Area",
+        "contract_type": "State",
+        "county": "Santa Clara",
+        "latitude": "37.262997",
+        "longitude": "-121.837296",
+        "website": "https://www.parks.ca.gov/?page_id=23450",
+        "photo_path": "https://bfsla.com/wp-content/uploads/2019/06/Martial-Cottle-Park-09.jpg"
+    },
+    {
+        "title": "Benicia State Recreation Area",
+        "contract_type": "State",
+        "county": "Solano",
+        "latitude": "38.0733",
+        "longitude": "-122.1926",
+        "website": "https://www.parks.ca.gov/?page_id=476",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/8/81/Benicia_State_Recreation_Area_Bay_Trail.jpg"
+    },
+    {
+        "title": "Benicia Capitol State Historic Park",
+        "contract_type": "State",
+        "county": "Solano",
+        "latitude": "38.0501",
+        "longitude": "-122.1589",
+        "website": "https://www.parks.ca.gov/?page_id=475",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Benicia_state_capitol_exterior.JPG"
+    },
+    {
+        "title": "Carnegie State Vehicular Recreation Area",
+        "contract_type": "State",
+        "county": "San Joaquin",
+        "latitude": "37.6341",
+        "longitude": "-121.5445",
+        "website": "https://www.parks.ca.gov/?page_id=1172",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-s/08/19/fa/d0/carnegie-state-vehicular.jpg"
+    },
+    {
+        "title": "Caswell Memorial State Park",
+        "contract_type": "State",
+        "county": "San Joaquin",
+        "latitude": "37.6916",
+        "longitude": "-121.1859",
+        "website": "https://www.parks.ca.gov/?page_id=557",
+        "photo_path": "https://www.visitstockton.org/imager/files_idss_com/C102/00c2117c-6919-4097-8a5e-f91c2ed56a20_cf127ca3a98712e9d52213b1386347a9.JPG"
+    },
+    {
+        "title": "Turlock Lake State Recreation Area",
+        "contract_type": "State",
+        "county": "Stanislaus",
+        "latitude": "37.6259",
+        "longitude": "-120.5909",
+        "website": "https://www.parks.ca.gov/?page_id=555",
+        "photo_path": "https://towntraveller.files.wordpress.com/2020/02/20191228_112233.jpg"
+    },
+    {
+        "title": "Calaveras Big Trees State Park",
+        "contract_type": "State",
+        "county": "Calaveras",
+        "latitude": "38.2775",
+        "longitude": "-120.3093",
+        "website": "https://www.parks.ca.gov/?page_id=551",
+        "photo_path": "https://z0fb32irt9t1o6rulkb67rop-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Calaveras-Big-Trees-State-Park-in-Spring-_-Lisa-Boulton.jpg"
+    },
+    {
+        "title": "Columbia State Historic Park",
+        "contract_type": "State",
+        "county": "Tuolumne",
+        "latitude": "38.0341",
+        "longitude": "-120.402",
+        "website": "https://www.parks.ca.gov/?page_id=552",
+        "photo_path": "https://www.visitcalifornia.com/sites/visitcalifornia.com/files/VCW_D_GC_T7_WellsFargo_Columbia_Flippen_Webdam-1280x642.jpg"
+    },
+    {
+        "title": "Railtown 1897 State Historic Park",
+        "contract_type": "State",
+        "county": "Tuolumne",
+        "latitude": "37.9497",
+        "longitude": "-120.4168",
+        "website": "https://www.parks.ca.gov/?page_id=491",
+        "photo_path": "https://www.american-rails.com/images/Sierra28234.jpg"
+    },
+    {
+        "title": "Grover Hot Springs State Park",
+        "contract_type": "State",
+        "county": "Alpine",
+        "latitude": "38.696",
+        "longitude": "-119.8439",
+        "website": "https://www.parks.ca.gov/?page_id=508",
+        "photo_path": "https://i.pinimg.com/originals/4b/b4/6a/4bb46aea243a380aadc2a63442891320.jpg"
+    },
+    {
+        "title": "Indian Grinding Rock State Historic Park",
+        "contract_type": "State",
+        "county": "Amador",
+        "latitude": "38.4251",
+        "longitude": "-120.6409",
+        "website": "https://www.parks.ca.gov/?page_id=553",
+        "photo_path": "https://www.goldcountrycampground.com/app/uploads/2019/02/grinding-rock.jpg"
+    },
+    {
+        "title": "Auburn State Recreation Area",
+        "contract_type": "State",
+        "county": "El Dorado",
+        "latitude": "38.9044",
+        "longitude": "-121.0557",
+        "website": "https://www.parks.ca.gov/?page_id=502",
+        "photo_path": "https://cdn.elebase.io/29559e61-1a75-4e70-a155-f8688960c1c1/ce46b1de-e2ac-4bd2-a4ab-8ef24b17b2fa-sie56f09ffd58479ba14.jpg"
+    },
+    {
+        "title": "D. L. Bliss State Park",
+        "contract_type": "State",
+        "county": "El Dorado",
+        "latitude": "38.9779",
+        "longitude": "-120.1027",
+        "website": "https://www.parks.ca.gov/?page_id=505",
+        "photo_path": "https://hipcamp-res.cloudinary.com/image/upload/c_fill,f_auto,g_auto,h_960,q_60,w_1440/v1433541109/mmjxq3gsc1fugse964bn.jpg"
+    },
+    {
+        "title": "Ed Z'berg Sugar Pine Point State Park",
+        "contract_type": "State",
+        "county": "El Dorado",
+        "latitude": "39.032",
+        "longitude": "-120.0721",
+        "website": "https://www.parks.ca.gov/?page_id=510",
+        "photo_path": "https://tahoesouth.com/wp-content/uploads/2018/09/sugar-pine-point-state-park-lake760x450.jpg"
+    },
+    {
+        "title": "Emerald Bay State Park",
+        "contract_type": "State",
+        "county": "El Dorado",
+        "latitude": "38.9542",
+        "longitude": "-120.1104",
+        "website": "https://www.parks.ca.gov/?page_id=506",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-s/0b/e9/92/91/emerald-bay-state-park.jpg"
+    },
+    {
+        "title": "Lake Valley State Recreation Area",
+        "contract_type": "State",
+        "county": "El Dorado",
+        "latitude": "38.8711",
+        "longitude": "-120.0079",
+        "website": "https://www.parks.ca.gov/?page_id=515",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-s/09/7b/ea/ff/stone-valley-recreation.jpg"
+    },
+    {
+        "title": "Marshall Gold Discovery State Historic Park",
+        "contract_type": "State",
+        "county": "El Dorado",
+        "latitude": "38.7992",
+        "longitude": "-120.8941",
+        "website": "https://www.parks.ca.gov/?page_id=484",
+        "photo_path": "https://www.parks.ca.gov/pages/484/images/mill%20pic%20fro%20terri.jpg"
+    },
+    {
+        "title": "Washoe Meadows State Park",
+        "contract_type": "State",
+        "county": "El Dorado",
+        "latitude": "38.8766",
+        "longitude": "-120.0293",
+        "website": "https://www.parks.ca.gov/?page_id=516",
+        "photo_path": "https://tahoesouth.com/wp-content/uploads/2014/12/washoe-meadows-state-park-lake-tahoe760x450.jpg"
+    },
+    {
+        "title": "Brannan Island State Recreation Area",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.1102",
+        "longitude": "-121.6968",
+        "website": "https://www.parks.ca.gov/?page_id=487",
+        "photo_path": "https://www.parks.ca.gov/pages/487/images/P0073244.jpg"
+    },
+    {
+        "title": "California Indian Heritage Center Park Property",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.573993",
+        "longitude": "-121.510902",
+        "website": "https://www.parks.ca.gov/?page_id=22628",
+        "photo_path": "https://www.parks.ca.gov/pages/22628/images/FR_2015_0360%20Su%20Nu%20Nu%20Shinal.jpg"
+    },
+    {
+        "title": "California State Capitol",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.5766",
+        "longitude": "-121.4932",
+        "website": "https://www.parks.ca.gov/?page_id=495",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/0/09/California_State_Capitol_Building_-_Full_Front_Facade.jpg"
+    },
+    {
+        "title": "California State Railroad Museum",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.58469",
+        "longitude": "-121.50438",
+        "website": "https://www.parks.ca.gov/?page_id=668",
+        "photo_path": "https://www.parks.ca.gov/pages/668/images/CPHuntington_10_23_12.JPG"
+    },
+    {
+        "title": "Delta Meadows Park Property",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.237641",
+        "longitude": "-121.519947",
+        "website": "https://www.parks.ca.gov/?page_id=492",
+        "photo_path": "https://www.parks.ca.gov/pages/492/images/090-P95141.jpg"
+    },
+    {
+        "title": "Folsom Powerhouse State Historic Park",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.6805",
+        "longitude": "-121.1758",
+        "website": "https://www.parks.ca.gov/?page_id=501",
+        "photo_path": "https://www.parks.ca.gov/pages/501/images/ph19.jpg"
+    },
+    {
+        "title": "Governor's Mansion State Historic Park",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.5801",
+        "longitude": "-121.4849",
+        "website": "https://www.parks.ca.gov/?page_id=498",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Governor%27s_Mansion_State_Historic_Park_-_guest_bedroom.JPG"
+    },
+    {
+        "title": "Leland Stanford Mansion State Historic Park",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.5762",
+        "longitude": "-121.4979",
+        "website": "https://www.parks.ca.gov/?page_id=489",
+        "photo_path": "https://www.outdoorproject.com/sites/default/files/styles/hero_image_desktop/public/1533704934/leland_stanford_mansion_state_historic_park-sacramento-10.jpg"
+    },
+    {
+        "title": "Locke Boarding House Museum",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.2513",
+        "longitude": "-121.51",
+        "website": "https://www.parks.ca.gov/?page_id=24343",
+        "photo_path": "https://www.parks.ca.gov/pages/24343/images/Locke_town_sign.jpg"
+    },
+    {
+        "title": "Old Sacramento State Historic Park",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.5831",
+        "longitude": "-121.5048",
+        "website": "https://www.parks.ca.gov/?page_id=497",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Old_Sacramento.jpg"
+    },
+    {
+        "title": "Prairie City State Vehicular Recreation Area",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.3636",
+        "longitude": "-121.948",
+        "website": "https://www.parks.ca.gov/?page_id=1221",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Prairie_City_State_Vehicular_Recreation_Area.jpg/1024px-Prairie_City_State_Vehicular_Recreation_Area.jpg"
+    },
+    {
+        "title": "State Indian Museum State Historic Park",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.3423",
+        "longitude": "-121.2817",
+        "website": "https://www.parks.ca.gov/?page_id=486",
+        "photo_path": "https://www.parks.ca.gov/pages/632/images/P0075858.JPG"
+    },
+    {
+        "title": "Stone Lake Park Property",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.3446",
+        "longitude": "-121.4977",
+        "website": "https://www.parks.ca.gov/?page_id=493",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Big_Stone_Lake_fishing_dock.JPG"
+    },
+    {
+        "title": "Sutter's Fort State Historic Park",
+        "contract_type": "State",
+        "county": "Sacramento",
+        "latitude": "38.5723",
+        "longitude": "-121.4712",
+        "website": "https://www.parks.ca.gov/?page_id=485",
+        "photo_path": "https://www.nps.gov/cali/planyourvisit/images/sutters-fort.jpg"
+    },
+    {
+        "title": "Angel Island State Park",
+        "contract_type": "State",
+        "county": "Marin",
+        "latitude": "37.8609",
+        "longitude": "-122.4326",
+        "website": "https://www.parks.ca.gov/?page_id=468",
+        "photo_path": "https://www.parks.ca.gov/pages/468/images/Angel_Island-Palmer_P055642.jpg"
+    },
+    {
+        "title": "China Camp State Park",
+        "contract_type": "State",
+        "county": "Marin",
+        "latitude": "38.0013",
+        "longitude": "-122.4911",
+        "website": "https://www.parks.ca.gov/?page_id=466",
+        "photo_path": "https://www.parks.ca.gov/pages/466/images/img_9031lowres.jpg"
+    },
+    {
+        "title": "Marconi Conference Center State Historic Park",
+        "contract_type": "State",
+        "county": "Marin",
+        "latitude": "38.14381",
+        "longitude": "-122.87833",
+        "website": "https://www.parks.ca.gov/?page_id=467",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-s/07/b6/19/14/marconi-conference-center.jpg"
+    },
+    {
+        "title": "Mount Tamalpais State Park",
+        "contract_type": "State",
+        "county": "Marin",
+        "latitude": "37.889",
+        "longitude": "-122.6108",
+        "website": "https://www.parks.ca.gov/?page_id=471",
+        "photo_path": "https://www.parks.ca.gov/pages/21299/images/img_0873_eastpeak_vdunsheetrl_web.jpg"
+    },
+    {
+        "title": "Olompali State Historic Park",
+        "contract_type": "State",
+        "county": "Marin",
+        "latitude": "38.1496",
+        "longitude": "-122.567",
+        "website": "https://www.parks.ca.gov/?page_id=465",
+        "photo_path": "https://d6qyz3em3b312.cloudfront.net/upload/images/media/2018/12/27/Olompali_State_Park_Burdell_Barn_9_30_2012_4.1920x1080.jpg"
+    },
+    {
+        "title": "Samuel P. Taylor State Park",
+        "contract_type": "State",
+        "county": "Marin",
+        "latitude": "38.0243",
+        "longitude": "-122.7214",
+        "website": "https://www.parks.ca.gov/?page_id=469",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/a2/30/0e/samuel-p-taylor-state.jpg"
+    },
+    {
+        "title": "Tomales Bay State Park",
+        "contract_type": "State",
+        "county": "Marin",
+        "latitude": "38.1234",
+        "longitude": "-122.9013",
+        "website": "https://www.parks.ca.gov/?page_id=470",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Pebble-Beach-Tomales-Bay-SP-Bryce-Sept2015-7-1000x619.jpg"
+    },
+    {
+        "title": "Burton Creek State Park",
+        "contract_type": "State",
+        "county": "Placer",
+        "latitude": "39.1867",
+        "longitude": "-120.1251",
+        "website": "https://www.parks.ca.gov/?page_id=512",
+        "photo_path": "https://www.parks.ca.gov/pages/512/images/090-P89755.jpg"
+    },
+    {
+        "title": "Folsom Lake State Recreation Area",
+        "contract_type": "State",
+        "county": "Placer",
+        "latitude": "38.7453",
+        "longitude": "-121.1161",
+        "website": "https://www.parks.ca.gov/?page_id=500",
+        "photo_path": "https://www.visitplacer.com/wp-content/uploads/2017/09/folsom-lake-feature.jpg"
+    },
+    {
+        "title": "Kings Beach State Recreation Area",
+        "contract_type": "State",
+        "county": "Placer",
+        "latitude": "39.2366",
+        "longitude": "-120.0254",
+        "website": "https://www.parks.ca.gov/?page_id=511",
+        "photo_path": "https://www.tahoepublicbeaches.org/wp-content/uploads/2012/04/DSCN1142.jpg"
+    },
+    {
+        "title": "Tahoe State Recreation Area",
+        "contract_type": "State",
+        "county": "Placer",
+        "latitude": "39.1753",
+        "longitude": "-120.1362",
+        "website": "https://www.parks.ca.gov/?page_id=504",
+        "photo_path": "https://www.parks.ca.gov/pages/504/images/090-P89717.jpg"
+    },
+    {
+        "title": "Ward Creek Park Property",
+        "contract_type": "State",
+        "county": "Placer",
+        "latitude": "39.1479622",
+        "longitude": "-120.2454723",
+        "website": "https://www.parks.ca.gov/?page_id=513",
+        "photo_path": "https://www.parks.ca.gov/pages/513/images/090-P101338.JPG"
+    },
+    {
+        "title": "Donner Memorial State Park",
+        "contract_type": "State",
+        "county": "Nevada",
+        "latitude": "39.3226",
+        "longitude": "-120.2337",
+        "website": "https://www.parks.ca.gov/?page_id=503",
+        "photo_path": "https://d2g85s3tfaxbly.cloudfront.net/photo/camp/31685/Donner_Memorial_State_Park_010.jpg"
+    },
+    {
+        "title": "Empire Mine State Historic Park",
+        "contract_type": "State",
+        "county": "Nevada",
+        "latitude": "39.206",
+        "longitude": "-121.0439",
+        "website": "https://www.parks.ca.gov/?page_id=499",
+        "photo_path": "https://gonevadacounty.com/wp-content/uploads/2016/05/Empire_mine_state_park-500x321.jpg"
+    },
+    {
+        "title": "Malakoff Diggins State Historic Park",
+        "contract_type": "State",
+        "county": "Nevada",
+        "latitude": "39.3708",
+        "longitude": "-120.898",
+        "website": "https://www.parks.ca.gov/?page_id=494",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/2/24/Malakoff_Diggins%2C_State_Historic_Park.jpg"
+    },
+    {
+        "title": "South Yuba River State Park",
+        "contract_type": "State",
+        "county": "Nevada",
+        "latitude": "39.2927",
+        "longitude": "-121.1936",
+        "website": "https://www.parks.ca.gov/?page_id=496",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/1/17/South_Yuba_River_waterfall.jpg"
+    },
+    {
+        "title": "Sutter Buttes State Park",
+        "contract_type": "State",
+        "county": "Sutter",
+        "latitude": "36.7783",
+        "longitude": "-119.4179",
+        "website": "https://www.parks.ca.gov/?page_id=23452",
+        "photo_path": "https://www.parks.ca.gov/pages/22491/images/buttes_landscape_sunstreak_448.jpg"
+    },
+    {
+        "title": "Armstrong Redwoods State Natural Reserve",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.537",
+        "longitude": "-123.0063",
+        "website": "https://www.parks.ca.gov/?page_id=450",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/2019-03/parks_armstrong_redwoods_state_natural_reserve_guerneville_sonoma_county_054_2000_1.jpg"
+    },
+    {
+        "title": "Austin Creek State Recreation Area",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.5593",
+        "longitude": "-123.0108",
+        "website": "https://www.parks.ca.gov/?page_id=452",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/styles/video_thumbnail_image/public/legacy_images/legacy-nid-32072/austin-creek-state-nature-park-600x450.jpg"
+    },
+    {
+        "title": "Fort Ross State Historic Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.516",
+        "longitude": "-123.246",
+        "website": "https://www.parks.ca.gov/?page_id=449",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/listing_images/profile/4807/142_DSC03270_8fa159d6-5056-a36a-0758c541a640880a.jpg"
+    },
+    {
+        "title": "Jack London State Historic Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.3567",
+        "longitude": "-122.5409",
+        "website": "https://www.parks.ca.gov/?page_id=478",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/6750/arts_museums_Jack_London_State_Historic_Park_House_of_Happy_Walls_Sonoma_County_0040-e39721995056a36_e397246f-5056-a36a-07136f90ca5d32d2.jpg"
+    },
+    {
+        "title": "Kruse Rhododendron State Natural Reserve",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.5938",
+        "longitude": "-123.329",
+        "website": "https://www.parks.ca.gov/?page_id=448",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2016/07/Kruse-Rhododendron-State-Natural-Reserve-Bryce-4-18-3-Large-1000x667.jpg"
+    },
+    {
+        "title": "Petaluma Adobe State Historic Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.2558",
+        "longitude": "-122.5847",
+        "website": "https://www.parks.ca.gov/?page_id=474",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/4806/petaluma-adobeSHP0_902694c5-5056-a36a-0747459282b682ce.jpg"
+    },
+    {
+        "title": "Salt Point State Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.5765",
+        "longitude": "-123.3318",
+        "website": "https://www.parks.ca.gov/?page_id=453",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/1751/coast_Salt_Point_State_Park_Jenner_Sonoma_County_0040-02b5148d5056a36_02b5160b-5056-a36a-07a36152e5e865ce.jpg"
+    },
+    {
+        "title": "Sonoma State Historic Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.2938",
+        "longitude": "-122.4569",
+        "website": "https://www.parks.ca.gov/?page_id=479",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/styles/profile_photo_full/public/listing_images/profile/4805/gvallejohome0_90267ca9-5056-a36a-079f1232526ad1eb.jpg"
+    },
+    {
+        "title": "Sonoma Coast State Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.4242",
+        "longitude": "-123.1012",
+        "website": "https://www.parks.ca.gov/?page_id=451",
+        "photo_path": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,w_600,h_450/crm/sonoma/coast_Sonoma_Coast_State_Park_Bodega_Dunes_Beach_Sonoma_County_0010-d41725485056a36_d4172765-5056-a36a-077c22cbccba8719.jpg"
+    },
+    {
+        "title": "Sugarloaf Ridge State Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.4372",
+        "longitude": "-122.5163",
+        "website": "https://www.parks.ca.gov/?page_id=481",
+        "photo_path": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/SugarloafCamping_Creek0-24a48f645056b3a_24a4919f-5056-b3a8-497ac60f29f3c88b.jpg"
+    },
+    {
+        "title": "Trione-Annadel State Park",
+        "contract_type": "State",
+        "county": "Sonoma",
+        "latitude": "38.4329",
+        "longitude": "-122.6324",
+        "website": "https://www.parks.ca.gov/?page_id=480",
+        "photo_path": "https://www.sonomacounty.com/sites/default/files/inline-images/Trione-Annadel-SP_884x663.jpg"
+    },
+    {
+        "title": "Admiral William Standley State Recreation Area",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.6462",
+        "longitude": "-123.6183",
+        "website": "https://www.parks.ca.gov/?page_id=424",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/f/fb/AubrunStateRecreationArea.JPG"
+    },
+    {
+        "title": "Caspar Headlands State Natural Reserve",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.3605",
+        "longitude": "-123.8235",
+        "website": "https://www.parks.ca.gov/?page_id=444",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Caspar-Headlands-SNR-Bryce-June2015-17-1000x667.jpg"
+    },
+    {
+        "title": "Caspar Headlands State Beach",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.3627",
+        "longitude": "-123.8172",
+        "website": "https://www.parks.ca.gov/?page_id=445",
+        "photo_path": "https://www.parks.ca.gov/pages/444/images/P0078003.jpg"
+    },
+    {
+        "title": "Greenwood State Beach",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.128",
+        "longitude": "-123.7171",
+        "website": "https://www.parks.ca.gov/?page_id=447",
+        "photo_path": "https://www.parks.ca.gov/pages/447/images/P0078059.jpg"
+    },
+    {
+        "title": "Hendy Woods State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.0698",
+        "longitude": "-123.4709",
+        "website": "https://www.parks.ca.gov/?page_id=438",
+        "photo_path": "https://kingdomcalifornia.com/wp-content/uploads/2019/07/hendy-woods-state-park-4.jpg"
+    },
+    {
+        "title": "Jug Handle State Natural Reserve",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.2231",
+        "longitude": "-123.4837",
+        "website": "https://www.parks.ca.gov/?page_id=441",
+        "photo_path": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/jug-handle-state-natural-reserve-california-joan-carroll.jpg"
+    },
+    {
+        "title": "MacKerricher State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.4885",
+        "longitude": "-123.7879",
+        "website": "https://www.parks.ca.gov/?page_id=436",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Main-Beach-at-MacKerricher-Bryce-June2015-10.jpg"
+    },
+    {
+        "title": "Mailliard Redwoods State Natural Reserve",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "38.9048",
+        "longitude": "-123.3346",
+        "website": "https://www.parks.ca.gov/?page_id=439",
+        "photo_path": "https://www.parks.ca.gov/pages/439/images/090-P97117.jpg"
+    },
+    {
+        "title": "Manchester State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "38.9844",
+        "longitude": "-123.7067",
+        "website": "https://www.parks.ca.gov/?page_id=437",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Manchester-State-Beach-Bryce-Sept2015-8-1000x600.jpg"
+    },
+    {
+        "title": "Mendocino Headlands State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.309",
+        "longitude": "-123.8062",
+        "website": "https://www.parks.ca.gov/?page_id=442",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/12/67/ea/93/mendocino-headlands-state.jpg"
+    },
+    {
+        "title": "Mendocino Woodlands State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.3384",
+        "longitude": "-123.6987",
+        "website": "https://www.parks.ca.gov/?page_id=443",
+        "photo_path": "https://www.parks.ca.gov/pages/443/images/P0077972.jpg"
+    },
+    {
+        "title": "Montgomery Woods State Natural Reserve",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.14",
+        "longitude": "-123.23",
+        "website": "https://www.parks.ca.gov/?page_id=434",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Montgomery_Woods.jpg/1200px-Montgomery_Woods.jpg"
+    },
+    {
+        "title": "Navarro River Redwoods State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.1768",
+        "longitude": "-123.6896",
+        "website": "https://www.parks.ca.gov/?page_id=435",
+        "photo_path": "https://media-cdn.tripadvisor.com/media/photo-s/12/6a/78/4f/great-drive.jpg"
+    },
+    {
+        "title": "Point Cabrillo Light Station State Historic Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.205497",
+        "longitude": "-123.493402",
+        "website": "https://www.parks.ca.gov/?page_id=22276",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Point-Cabrillo-Lighthouse-with-pink-flowers-38139796-Large-e1491332273370-1000x568.jpg"
+    },
+    {
+        "title": "Reynolds Wayside Campground",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.948964",
+        "longitude": "-123.776093",
+        "website": "https://www.parks.ca.gov/?page_id=428",
+        "photo_path": "https://www.parks.ca.gov/pages/428/images/090-P89187.jpg"
+    },
+    {
+        "title": "Russian Gulch State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.3325",
+        "longitude": "-123.8061",
+        "website": "https://www.parks.ca.gov/?page_id=432",
+        "photo_path": "https://www.parks.ca.gov/pages/432/images/WaterfallBridge.jpg"
+    },
+    {
+        "title": "Schooner Gulch State Beach",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "38.8682",
+        "longitude": "-123.6546",
+        "website": "https://www.parks.ca.gov/?page_id=446",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Schooner-Gulch-State-Beach-Bryce-Sept2015-7-1000x636.jpg"
+    },
+    {
+        "title": "Sinkyone Wilderness State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.9203",
+        "longitude": "-123.9397",
+        "website": "https://www.parks.ca.gov/?page_id=429",
+        "photo_path": "https://img.hipcamp.com/image/upload/c_fill,f_auto,g_auto,h_960,q_60,w_1440/v1433541197/d7nik5nfp7alxzg2ahsi.jpg"
+    },
+    {
+        "title": "Smithe Redwoods State Natural Reserve",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.9027",
+        "longitude": "-123.7514",
+        "website": "https://www.parks.ca.gov/?page_id=427",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2016/07/DSC_0201-500x331.jpg"
+    },
+    {
+        "title": "Standish-Hickey State Recreation Area",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.8775",
+        "longitude": "-123.7376",
+        "website": "https://www.parks.ca.gov/?page_id=423",
+        "photo_path": "https://www.savetheredwoods.org/wp-content/uploads/blog-rc-Standish-Hickey-May2013-218.jpg"
+    },
+    {
+        "title": "Van Damme State Park",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.2757",
+        "longitude": "-123.7643",
+        "website": "https://www.parks.ca.gov/?page_id=433",
+        "photo_path": "https://www.parks.ca.gov/pages/433/images/FernCanyonScenicTrail.jpg"
+    },
+    {
+        "title": "Westport-Union Landing State Beach",
+        "contract_type": "State",
+        "county": "Mendocino",
+        "latitude": "39.6771",
+        "longitude": "-123.7912",
+        "website": "https://www.parks.ca.gov/?page_id=440",
+        "photo_path": "https://live.staticflickr.com/7800/33562430718_9811fd1070_h.jpg"
+    },
+    {
+        "title": "Azalea State Natural Reserve",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "40.9176",
+        "longitude": "-124.0793",
+        "website": "https://www.parks.ca.gov/?page_id=420",
+        "photo_path": "https://www.parks.ca.gov/pages/420/images/P0083437.JPG"
+    },
+    {
+        "title": "Benbow State Recreation Area",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "40.06292",
+        "longitude": "-123.79475",
+        "website": "https://www.parks.ca.gov/?page_id=426",
+        "photo_path": "https://www.parks.ca.gov/pages/426/images/BenbowLake-Palmer_P0073181.jpg"
+    },
+    {
+        "title": "Fort Humboldt State Historic Park",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "40.7768",
+        "longitude": "-124.1886",
+        "website": "https://www.parks.ca.gov/?page_id=665",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fort_Humboldt_House.JPG"
+    },
+    {
+        "title": "Grizzly Creek Redwoods State Park",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "40.4867",
+        "longitude": "-123.9051",
+        "website": "https://www.parks.ca.gov/?page_id=421",
+        "photo_path": "https://www.parks.ca.gov/pages/421/images/Among-the-giants.jpg"
+    },
+    {
+        "title": "Harry A. Merlo State Recreation Area",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "41.1595",
+        "longitude": "-124.1188",
+        "website": "https://www.parks.ca.gov/?page_id=431",
+        "photo_path": "https://www.parks.ca.gov/pages/431/images/P0068285.jpg"
+    },
+    {
+        "title": "Humboldt Lagoons State Park",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "41.2251",
+        "longitude": "-124.0981",
+        "website": "https://www.parks.ca.gov/?page_id=416",
+        "photo_path": "https://www.parks.ca.gov/pages/416/images/Big_Lagoon.jpg"
+    },
+    {
+        "title": "Humboldt Redwoods State Park",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "40.3147",
+        "longitude": "-123.9777",
+        "website": "https://www.parks.ca.gov/?page_id=425",
+        "photo_path": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/eurekaca/505P3HIGH-ROCK-TOP-2-JUNE-2-07_fe2fa676-5056-a36a-09cc6ada63185254.jpg"
+    },
+    {
+        "title": "John B. Dewitt Redwoods State Natural Reserve",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "40.624",
+        "longitude": "-123.4955",
+        "website": "https://www.parks.ca.gov/?page_id=22274",
+        "photo_path": "https://cdn-assets.alltrails.com/uploads/photo/image/13760725/large_aced6181e83d72516c2c62884d901f34.jpg"
+    },
+    {
+        "title": "Little River State Beach",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "41.0162",
+        "longitude": "-124.1118",
+        "website": "https://www.parks.ca.gov/?page_id=419",
+        "photo_path": "https://www.parks.ca.gov/pages/419/images/P0083473.jpg"
+    },
+    {
+        "title": "Patrick's Point State Park",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "41.1365",
+        "longitude": "-124.1552",
+        "website": "https://www.parks.ca.gov/?page_id=417",
+        "photo_path": "https://www.parks.ca.gov/pages/417/images/Wedding_Rock.jpg"
+    },
+    {
+        "title": "Prairie Creek Redwoods State Park",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "41.4016",
+        "longitude": "-124.0416",
+        "website": "https://www.parks.ca.gov/?page_id=415",
+        "photo_path": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_80,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/eurekaca/477P3A-sea-of-ferns_fe360fe1-5056-a36a-09b1ab4cd2f1d605.jpg"
+    },
+    {
+        "title": "Richardson Grove State Park",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "40.0193",
+        "longitude": "-123.7925",
+        "website": "https://www.parks.ca.gov/?page_id=422",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2016/07/59450-650x432.jpg"
+    },
+    {
+        "title": "Trinidad State Beach",
+        "contract_type": "State",
+        "county": "Humboldt",
+        "latitude": "41.0654",
+        "longitude": "-124.1503",
+        "website": "https://www.parks.ca.gov/?page_id=418",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/TrinidadSB-HumboldtCountyCVB-Custom-1000x667.jpg"
+    },
+    {
+        "title": "Del Norte Coast Redwoods State Park",
+        "contract_type": "State",
+        "county": "Del Norte",
+        "latitude": "41.6729",
+        "longitude": "-124.1157",
+        "website": "https://www.parks.ca.gov/?page_id=414",
+        "photo_path": "https://www.parks.ca.gov/pages/414/images/Rays.jpg"
+    },
+    {
+        "title": "Jedediah Smith Redwoods State Park",
+        "contract_type": "State",
+        "county": "Del Norte",
+        "latitude": "41.7955",
+        "longitude": "-124.1047",
+        "website": "https://www.parks.ca.gov/?page_id=413",
+        "photo_path": "https://50campfires.com/wp-content/uploads/2014/04/a49-620x330.jpg"
+    },
+    {
+        "title": "Pelican State Beach",
+        "contract_type": "State",
+        "county": "Del Norte",
+        "latitude": "41.9925",
+        "longitude": "-124.2091",
+        "website": "https://www.parks.ca.gov/?page_id=412",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/Pelican-State-Beach-Stevens-Mar2015-12-1000x608.jpg"
+    },
+    {
+        "title": "Tolowa Dunes State Park",
+        "contract_type": "State",
+        "county": "Del Norte",
+        "latitude": "41.8701",
+        "longitude": "-124.2036",
+        "website": "https://www.parks.ca.gov/?page_id=430",
+        "photo_path": "https://www.californiabeaches.com/wp-content/uploads/2014/09/IMG_1377-Tolowa-Dunes-SP-South-Bryce-Custom.jpg"
+    },
+    {
+        "title": "Weaverville Joss House State Historic Park",
+        "contract_type": "State",
+        "county": "Trinity",
+        "latitude": "40.7311",
+        "longitude": "-122.9408",
+        "website": "https://www.parks.ca.gov/?page_id=457",
+        "photo_path": "https://files.idssasp.com/public/C162/01dc0dbe-a5ef-4fd6-8c0c-d56a2ecaca42/0ce60ed7-0395-40e2-ac17-d8f80fa6421c.jpg"
+    },
+    {
+        "title": "Ahjumawi Lava Springs State Park",
+        "contract_type": "State",
+        "county": "Shasta",
+        "latitude": "41.1317",
+        "longitude": "-121.4503",
+        "website": "https://www.parks.ca.gov/?page_id=464",
+        "photo_path": "https://northerncaliforniahikingtrails.com/blog/wp-content/uploads/2019/02/ja-she-creek-ahjumawi-lava-springs-state-park.jpg"
+    },
+    {
+        "title": "Castle Crags State Park",
+        "contract_type": "State",
+        "county": "Shasta",
+        "latitude": "41.1482",
+        "longitude": "-122.3214",
+        "website": "https://www.parks.ca.gov/?page_id=454",
+        "photo_path": "https://files.idssasp.com/public/C162/01dc0dbe-a5ef-4fd6-8c0c-d56a2ecaca42/16712ffc-afd8-4345-b155-59a07f4e2a92.jpg"
+    },
+    {
+        "title": "McArthur-Burney Falls Memorial State Park",
+        "contract_type": "State",
+        "county": "Shasta",
+        "latitude": "41.0124",
+        "longitude": "-121.6502",
+        "website": "https://www.parks.ca.gov/?page_id=455",
+        "photo_path": "https://www.travelcaffeine.com/wp-content/uploads/2016/03/mcarthur-burney-falls-memorial-state-park-california-fall-colors.jpg"
+    },
+    {
+        "title": "Shasta State Historic Park",
+        "contract_type": "State",
+        "county": "Shasta",
+        "latitude": "40.5981",
+        "longitude": "-122.4908",
+        "website": "https://www.parks.ca.gov/?page_id=456",
+        "photo_path": "https://files.idssasp.com/public/C162/01dc0dbe-a5ef-4fd6-8c0c-d56a2ecaca42/ecc12315-0b6b-4ea1-8bf5-f9dfe68770c7.jpg"
+    },
+    {
+        "title": "William B. Ide Adobe State Historic Park",
+        "contract_type": "State",
+        "county": "Tehama",
+        "latitude": "40.1968",
+        "longitude": "-122.2254",
+        "website": "https://www.parks.ca.gov/?page_id=458",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Front_of_William_B._Ide_Adobe.JPG"
+    },
+    {
+        "title": "Woodson Bridge State Recreation Area",
+        "contract_type": "State",
+        "county": "Tehama",
+        "latitude": "39.9151",
+        "longitude": "-122.0852",
+        "website": "https://www.parks.ca.gov/?page_id=459",
+        "photo_path": "https://3.bp.blogspot.com/-24Iyf13_ipI/TlvhdEfdZKI/AAAAAAAABfE/THuGbOs4h6w/s1600/IMG_2139.JPG"
+    },
+    {
+        "title": "Plumas-Eureka State Park",
+        "contract_type": "State",
+        "county": "Plumas",
+        "latitude": "39.7569",
+        "longitude": "-120.698",
+        "website": "https://www.parks.ca.gov/?page_id=507",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/2/22/Plumas-Eureka_State_Park_landscape.jpg"
+    },
+    {
+        "title": "Butte City Project Park Property",
+        "contract_type": "State",
+        "county": "Glenn",
+        "latitude": "39.463",
+        "longitude": "-121.9925",
+        "website": "https://www.parks.ca.gov/?page_id=25601",
+        "photo_path": "https://friendsofpowellbutte.org/wp-content/uploads/2014/03/Powell-Butte-Nature-Center-is-open-Portland-Oregon.jpg"
+    },
+    {
+        "title": "Bidwell Mansion State Historic Park",
+        "contract_type": "State",
+        "county": "Butte",
+        "latitude": "39.7324",
+        "longitude": "-121.8436",
+        "website": "https://www.parks.ca.gov/?page_id=460",
+        "photo_path": "https://www.parks.ca.gov/pages/460/images/Picture%20003.jpg"
+    },
+    {
+        "title": "Bidwell-Sacramento River State Park",
+        "contract_type": "State",
+        "county": "Butte",
+        "latitude": "39.7303",
+        "longitude": "-121.9537",
+        "website": "https://www.parks.ca.gov/?page_id=463",
+        "photo_path": "https://www.parks.ca.gov/pages/463/images/P0075986.jpg"
+    },
+    {
+        "title": "Clay Pit State Vehicular Recreation Area",
+        "contract_type": "State",
+        "county": "Butte",
+        "latitude": "39.462067",
+        "longitude": "-121.502735",
+        "website": "https://www.parks.ca.gov/?page_id=25572",
+        "photo_path": "https://www.topozone.com/wp-content/uploads/2017/05/bigs-Desert-4x4-roads-kern-county-with-Joshua-trees-SVRA-california-E1-Large.jpg"
+    },
+    {
+        "title": "Lake Oroville State Recreation Area",
+        "contract_type": "State",
+        "county": "Butte",
+        "latitude": "39.535",
+        "longitude": "-121.4669",
+        "website": "https://www.parks.ca.gov/?page_id=462",
+        "photo_path": "https://water.ca.gov/-/media/DWR-Images/DWR-Website-banners-Final/News/KG_oroville_13289_11_01_17.jpg"
+    },
+    {
+        "title": "Anderson Marsh State Historic Park",
+        "contract_type": "State",
+        "county": "Lake",
+        "latitude": "38.9204",
+        "longitude": "-122.6135",
+        "website": "https://www.parks.ca.gov/?page_id=483",
+        "photo_path": "https://baynature.org/wp-content/uploads/2013/06/amshp11.jpg"
+    },
+    {
+        "title": "Clear Lake State Park",
+        "contract_type": "State",
+        "county": "Lake",
+        "latitude": "39.0106",
+        "longitude": "-122.8139",
+        "website": "https://www.parks.ca.gov/?page_id=473",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dorn_bay_clear_lake_state_park_ca.jpg"
+    },
+    {
+        "title": "Colusa-Sacramento River State Recreation Area",
+        "contract_type": "State",
+        "county": "Colusa",
+        "latitude": "39.2179",
+        "longitude": "-122.0149",
+        "website": "https://www.parks.ca.gov/?page_id=461",
+        "photo_path": "https://www.parks.ca.gov/pages/461/images/090-P94879.jpg"
+    },
+    {
+        "title": "Bale Grist Mill State Historic Park",
+        "contract_type": "State",
+        "county": "Napa",
+        "latitude": "38.5412",
+        "longitude": "-122.5089",
+        "website": "https://www.parks.ca.gov/?page_id=482",
+        "photo_path": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bale_Grist_Mill_State_Historic_Park_2.jpg"
+    },
+    {
+        "title": "Bothe-Napa Valley State Park",
+        "contract_type": "State",
+        "county": "Napa",
+        "latitude": "38.543",
+        "longitude": "-122.5375",
+        "website": "https://www.parks.ca.gov/?page_id=477",
+        "photo_path": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/e/df/edf909b4-5cce-5c39-9ce9-1829aa3711a8/5ca9706696e61.image.jpg"
+    },
+    {
+        "title": "Robert Louis Stevenson State Park",
+        "contract_type": "State",
+        "county": "Napa",
+        "latitude": "38.6617",
+        "longitude": "-122.6218",
+        "website": "https://www.parks.ca.gov/?page_id=472",
+        "photo_path": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/napavalley/463_88f72889-5056-a36a-08256e0a8d9b9703.jpg"
+    },
+    {
+        "title": "Woodland Opera House State Historic Park",
+        "contract_type": "State",
+        "county": "Yolo",
+        "latitude": "38.6779",
+        "longitude": "-121.7721",
+        "website": "https://www.parks.ca.gov/?page_id=488",
+        "photo_path": "https://ca.reel-scout.com/up_images/9/2886709.jpg"
     }
 ]
