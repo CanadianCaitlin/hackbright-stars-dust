@@ -3,37 +3,66 @@
 
 {% block body %}
 
-  <h2>Explore Parks</h2>
-  <form action="/parks" method="POST">
-    <p>
-        Park Name <input type="text" name="park-name">
-    </p>
-    <p>
-        County
-        <select name="county">
-          <option value="Imperial">Imperial</option>
-          <option value="Los Angeles">Los Angeles</option>
-          <option value="Orange">Orange</option>
-          <option value="Riverside">Riverside</option>
-          <option value="San Bernardino">San Bernardino</option>
-          <option value="San Diego">San Diego</option>
-          <option value="Ventura">Ventura</option>
-        </select>
-    </p> 
+  <h2>Explore Parks by County</h2>
+  <p>
+    <form action="/parks" method="POST">
+      <input list="counties" name="county" id="county" placeholder="E.g. Los Angeles">
+      <datalist id="counties">
+        <option value="Alameda">
+        <option value="Alpine">
+        <option value="Amador">
+        <option value="Butte">
+        <option value="Calaveras">
+        <option value="Colusa">
+        <option value="Contra Costa">
+        <option value="Del Norte">
+        <option value="El Dorado">
+        <option value="Fresno">
+        <option value="Glenn">
+        <option value="Humboldt">
+        <option value="Imperial">
+        <option value="Inyo">
+        <option value="Kern">
+        <option value="Lake">
+        <option value="Los Angeles">
+        <option value="Madera">
+        <option value="Marin">
+        <option value="Mariposa">
+        <option value="Mendocino">
+        <option value="Merced">
+        <option value="Mono">
+        <option value="Monterey">
+        <option value="Napa">
+        <option value="Navada">
+        <option value="Orange">
+        <option value="Placer">
+        <option value="Plumas">
+        <option value="Riverside">
+        <option value="Sacramento">
+        <option value="San Benito">
+        <option value="San Bernardino">
+        <option value="San Diego">
+        <option value="San Francisco">
+        <option value="San Joaquin">
+        <option value="San Luis Obispo">
+        <option value="San Mateo">
+        <option value="Santa Barbara">
+        <option value="Santa Clara">
+        <option value="Santa Cruz">
+        <option value="Shasta">
+        <option value="Solano">
+        <option value="Sonoma">
+        <option value="Stanislaus">
+        <option value="Sutter">
+        <option value="Tehama">
+        <option value="Trinity">
+        <option value="Tulare">
+        <option value="Tuolumne">
+        <option value="Ventura">
+        <option value="Yolo">
+      </datalist>
+      <button type="submit">Explore</button>
+    </form>
+  </p>
 
-    <p>
-        Park Type 
-        <input type="radio" name="contract-type" value="national">
-        <label>National Park</label>
-        
-        <input type="radio" name="contract-type" value="state">
-        <label>State Park</label>
-    </p>
-
-    <p>
-        <button type="submit">Explore</button>
-    </p>
-  </form>
-    <div id='root'></div>
-    <script type='text/jsx' src='static/js/parks.jsx'></script>
 {% endblock %}
