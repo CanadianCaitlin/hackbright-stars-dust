@@ -1,5 +1,7 @@
 """CRUD operations."""
 
+from sqlalchemy.sql import func
+
 from model import db, User, Park, Rating, connect_to_db
 
 def create_user(email, password):
@@ -47,12 +49,19 @@ def create_rating(user, park, score):
 def get_park_by_county(county):
     """Return list of parks within selected county."""
 
-    return Park.query.filter(Park.county == county)
-
-# def get_rating_by_park(county):
-#     """Return the rating of a park."""
-
-#     return Rating.query.filter(Rating.park_id == park)
+    results = db.session.query(Park, func.avg(Rating.score)).join(Rating).filter(Park.county == county).group_by(Park.park_id)
+    parks = []
+    
+    for park, avg_score in results:
+        parks.append({'park_id': park.park_id, 
+                    'avg_score': round(float(avg_score),2),
+                    'park_title': park.title,
+                    'contract_type': park.contract_type,
+                    'latitude': park.latitude,
+                    'longitude': park.longitude,
+                    'website': park.website,
+                    'photo_path': park.photo_path})
+    return parks
 
 def create_park(title, contract_type, county, latitude, longitude, website, photo_path):
     """Create and return a new park."""

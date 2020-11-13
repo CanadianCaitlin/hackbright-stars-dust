@@ -83,7 +83,6 @@ def parks_data():
     
     return jsonify(parks_lst)
 
-
 # MVP 2.0
 @app.route('/trails')
 def search_trails():

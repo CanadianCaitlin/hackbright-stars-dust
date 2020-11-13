@@ -6,47 +6,21 @@
 {% endblock %}
 
 {% block body %}
-
-  <!-- // var lnglats = [{% for park in parks %}[{{ park.longitude }}, {{ park.latitude }}]{% if not loop.last %},{% endif %}{% endfor %}];
-  // lnglats.forEach((lnglat) => {
-  //   var marker = new mapboxgl.Marker()
-  //   .setLngLat([lnglat[0], lnglat[1]])
-  //   .addTo(map);
-  // })
-  
-  // var county = '{{ county }}'; -->
-
-  <!-- // $(document).ready(() => {
-
-  //   $("#county-picker").change(() => {
-  //     console.log($("#county-picker").val())
-  //     county = $("#county-picker").val()
-  //     let url = '/parks_data' + '?county=' + county;
-  //     $.get(url, (data) => {
-  //       data.parks.forEach((park) => {
-  //         var marker = new mapboxgl.Marker()
-  //         .setLngLat([park.lng, park.lat])
-  //         .addTo(map);
-  //       })
-  //     })
-  //   })
-    
-  // }) -->
  
   <div class="container m-0">
     <div class="row">
       <div class="col-8">
         <div>
-          <h2>Results for {{ county }} County</h2>
+          <h2>Parks for {{ county }} County</h2>
         </div>
         <div class="row">
           {% for park in parks %}
           <div class="col-6 pb-2">
             <div class="card" style="width: 20rem;">
-              <img class="card-img-top" style="height: 200px;" src="{{ park.photo_path }}" alt="Card image cap">
+              <img class="card-img-top" style="height: 200px;" src="{{ park['photo_path'] }}" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title">{{ park.title }}</h5>
-                <a href="{{ park.website }}" class="btn btn-primary">Park Website</a>
+                <h5 class="card-title">{{ park['park_title'] }}</h5>
+                <a href="{{ park['website'] }}" class="btn btn-primary">Park Website</a>
               </div>
             </div>
           </div> 
@@ -63,9 +37,9 @@
     const parks = []
     {% for park in parks %} 
       parks.push({
-        latitude: {{park.latitude}},
-        longitude: {{park.longitude}},
-        title: "{{park.title}}"
+        latitude: {{park['latitude']}},
+        longitude: {{park['longitude']}},
+        title: "{{park['park_title']}}"
       })
     {% endfor %}
     renderMaps('{{public_key}}', parks)
