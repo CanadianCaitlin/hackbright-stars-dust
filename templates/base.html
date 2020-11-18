@@ -43,9 +43,15 @@
                 <li class="navbar-item">
                     <a href="stargazing" class="nav-link">Stars</a>
                 </li>
+                {% if logged_in %}
+                <li class="navbar-item">
+                    <a href="/logout" class="nav-link">Logout</a>
+                </li>
+                {% else %}
                 <li class="navbar-item">
                     <a href="/login" class="nav-link">Login</a>
                 </li>
+                {% endif %}
             </ul>
         </div>
       </nav>

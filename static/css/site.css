@@ -27,3 +27,13 @@ div.card {
   margin: 20px;
   display: flex;
 }
+
+.btn-background {
+  background-color: #e76f51;
+  border-color: #e76f51;
+}
+
+.btn-background:hover {
+  background-color: #e9c46a;
+  border-color: #e9c46a;
+}

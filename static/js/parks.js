@@ -6,7 +6,7 @@ function renderMaps(accessToken, parks) {
         container: 'map',
         style: 'mapbox://styles/canadiancaitlin/ckgr5t4nz00dd19pacacljg37', // stylesheet location
         center: [-121.686426, 36.550845], // starting position [lng, lat] (center of coastal CA)
-        zoom: 6 // starting zoom
+        zoom: 2 // starting zoom
     });
 
     for (const park of parks) {

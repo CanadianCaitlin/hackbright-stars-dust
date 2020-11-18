@@ -15,21 +15,27 @@ app = Flask(__name__)
 app.secret_key = "dev"
 app.jinja_env.undefined = StrictUndefined
 
+
+def authenticate_and_render(template_name, **kwargs):
+    """Hacky middleware to add a logged_in variable to the render context based on the session information."""
+    return render_template(template_name, logged_in='user' in session, **kwargs)
+
+
 @app.route('/')
 def homepage():
     """View homepage."""
-
-    return render_template('homepage.html')
+    return authenticate_and_render('homepage.html')
 
 @app.route('/login')
 def login():
     """Login to website or create new account."""
 
-    return render_template('login.html')
+    return authenticate_and_render('login.html')
 
 @app.route('/user', methods=['POST'])
 def login_user():
     """Create existing or new user session."""
+    print("Login user was kicked off.")
     email = request.args.get('email')
     password = request.form.get('password')
 
@@ -60,17 +66,19 @@ def logout():
 def search_parks():
     """View parks based on user criteria submission."""
 
+    print(f"{session.get('user')} is in session.")
+
     if request.method == "POST":
         county = request.form.get('county')
         parks = crud.get_park_by_county(county)
         
-        return render_template('parkresults.html', 
+        return authenticate_and_render('parkresults.html', 
                                county=county, 
                                parks=parks,
                                public_key=os.getenv("MB_PUBLIC_KEY"))
 
     else:
-        return render_template('parks.html')
+        return authenticate_and_render('parks.html')
 
 @app.route('/parks_data', methods=['GET'])
 def parks_data():
