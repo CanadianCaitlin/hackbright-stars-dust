@@ -28,6 +28,11 @@ div.card {
   display: flex;
 }
 
+.rating {
+  color: transparent;
+  text-shadow: 0 0 0 #e9c46a;
+}
+
 .btn-background {
   background-color: #e76f51;
   border-color: #e76f51;
