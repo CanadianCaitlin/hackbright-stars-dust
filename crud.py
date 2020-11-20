@@ -49,12 +49,13 @@ def create_rating(user, park, score):
 def get_park_by_county(county):
     """Return list of parks within selected county."""
 
-    results = db.session.query(Park, func.avg(Rating.score)).join(Rating).filter(Park.county == county).group_by(Park.park_id)
+    results = db.session.query(Park, func.avg(Rating.score), func.count(Rating.score)).join(Rating).filter(Park.county == county).group_by(Park.park_id)
     parks = []
     
-    for park, avg_score in results:
+    for park, avg_score, rating_count in results:
         parks.append({'park_id': park.park_id, 
                     'avg_score': round(float(avg_score),2),
+                    'rating_count': rating_count,
                     'park_title': park.title,
                     'contract_type': park.contract_type,
                     'latitude': park.latitude,
@@ -62,6 +63,20 @@ def get_park_by_county(county):
                     'website': park.website,
                     'photo_path': park.photo_path})
     return parks
+
+    # results = db.session.query(Park, func.avg(Rating.score)).join(Rating).filter(Park.county == county).group_by(Park.park_id)
+    # parks = []
+    
+    # for park, avg_score in results:
+    #     parks.append({'park_id': park.park_id, 
+    #                 'avg_score': round(float(avg_score),2),
+    #                 'park_title': park.title,
+    #                 'contract_type': park.contract_type,
+    #                 'latitude': park.latitude,
+    #                 'longitude': park.longitude,
+    #                 'website': park.website,
+    #                 'photo_path': park.photo_path})
+    # return parks
 
 def create_park(title, contract_type, county, latitude, longitude, website, photo_path):
     """Create and return a new park."""
