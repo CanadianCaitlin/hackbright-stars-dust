@@ -5,8 +5,8 @@ function renderMaps(accessToken, parks) {
     var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/canadiancaitlin/ckgr5t4nz00dd19pacacljg37', // stylesheet location
-        center: [-121.686426, 36.550845], // starting position [lng, lat] (center of coastal CA)
-        zoom: 2 // starting zoom
+        center: [-119.25046, 36.778259], // starting position [lng, lat] (center of coastal CA)
+        zoom: 5 // starting zoom
     });
 
     for (const park of parks) {
