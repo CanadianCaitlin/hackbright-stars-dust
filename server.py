@@ -103,7 +103,7 @@ def search_trails():
 def stargazing_search():
     """View stargazing locations."""
 
-    return render_template('stargazing.html')
+    return authenticate_and_render('stargazing.html')
 
 if __name__ == "__main__":
   connect_to_db(app)

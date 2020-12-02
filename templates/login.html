@@ -3,19 +3,34 @@
 
 {% block body %}
 
-<h2> Login or Create an Account</h2>
-<form action="/user" method="POST"> 
-  <p>
-    Email <input type="text" name="email">
-  </p>
+<style>
+  body {
+    background: url(../static/img/jtree3.jpg) center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+</style>
 
-  <p>
-    Password <input type="password" name="password">
+<div class="center">
+  <h2 style="font-family: monospace; font-size: 50px; text-align: center;">stars & dust community</h2>
+  <p style="font-family: monospace; font-size: 20px; text-align: center;">
+    Login to rate your favorite meadows, peaks, and star-filled skies.
   </p>
-
-  <p>
-    <button type="submit">Submit</button>
-  </p>
-</form>
+  <form action="/user" method="POST"> 
+    <p>
+      Email <input type="text" name="email">
+    </p>
+  
+    <p>
+      Password <input type="password" name="password">
+    </p>
+  
+    <p>
+      <button type="submit">Submit</button>
+    </p>
+  </form>
 </div>
+
 {% endblock %}
