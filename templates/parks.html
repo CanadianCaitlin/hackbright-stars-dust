@@ -3,6 +3,17 @@
 
 {% block body %}
 
+<style>
+  body {
+    background: url(../static/img/arizona1.jpg) center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+</style>
+
+<div class="center-dark">
   <h2>Explore Parks by County</h2>
   <p>
     <form action="/parks" method="POST">
@@ -64,5 +75,6 @@
       <button type="submit">Explore</button>
     </form>
   </p>
+</div> 
 
 {% endblock %}
